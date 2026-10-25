@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "updated": "2026-10-25",
+  "search_rule": {
+    "origin": "Horšovský Týn",
+    "max_drive_minutes": 30,
+    "travel_mode": "car",
+    "basis": "typical normal traffic driving time, not straight-line distance",
+    "exceptions": [
+      {
+        "employer": "SOŠ obchodu, užitého umění a designu – Nerudovka",
+        "location": "Plzeň",
+        "reason": "explicitly monitored legacy target even though outside the 30-minute radius"
+      }
+    ],
+    "remote_exception": "Jobs outside the 30-minute driving radius are excluded unless they are genuinely fully remote with no regular commuting requirement."
+  },
+  "roles": [
+    "účetní",
+    "samostatná účetní",
+    "finanční účetní",
+    "hlavní účetní",
+    "senior accountant",
+    "mzdová účetní",
+    "mzdová a personální účetní",
+    "personalista/personalistka se mzdami",
+    "ekonom/ekonomka",
+    "rozpočtář/rozpočtářka",
+    "účetní nebo ekonom ve veřejné správě",
+    "účetní nebo ekonom ve škole či příspěvkové organizaci",
+    "učitel/učitelka ekonomických předmětů",
+    "učitel/učitelka účetnictví",
+    "učitel/učitelka ekonomiky",
+    "učitel/učitelka práva",
+    "učitel/učitelka administrativy",
+    "učitel/učitelka písemné a elektronické komunikace",
+    "učitel/učitelka strojopisu"
+  ],
+  "sources": [
+    {
+      "name": "Jednotný portál MPSV / Úřad práce ČR",
+      "type": "official",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Oficiální kariérní stránky zaměstnavatelů",
+      "type": "official",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Oficiální weby škol a školských zařízení",
+      "type": "official",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "EDU.cz – Volná místa ve školství",
+      "type": "school",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "SchoolJob.cz",
+      "type": "school",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Prace-skolstvi.cz",
+      "type": "school",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "ISoSS / volná služební místa",
+      "type": "public_sector",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Plzeňský kraj – kariéra / volná místa / úřední deska",
+      "type": "public_sector",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Město Horšovský Týn – volná pracovní místa",
+      "type": "public_sector",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Město Domažlice a okolní obce – kariéra / úřední desky",
+      "type": "public_sector",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Jobs.cz",
+      "type": "general",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Prace.cz",
+      "type": "general",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "PraceZaRohem.cz",
+      "type": "general",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Indeed.cz",
+      "type": "general",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "LinkedIn Jobs",
+      "type": "general",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Jooble.cz",
+      "type": "aggregator",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Pracomat.cz",
+      "type": "aggregator",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Easy-prace.cz",
+      "type": "aggregator",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "JenPrace.cz",
+      "type": "aggregator",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Dobraprace.cz",
+      "type": "general",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Profesia.cz",
+      "type": "general",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Careerjet.cz",
+      "type": "aggregator",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "JobDNES.cz",
+      "type": "general",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Volna-mista.cz",
+      "type": "aggregator",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "HitPrace.cz",
+      "type": "aggregator",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Inwork.cz",
+      "type": "general",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Flek.cz",
+      "type": "general",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Atmoskop.cz",
+      "type": "company_jobs_and_reviews",
+      "priority": 3,
+      "active": true
+    },
+    {
+      "name": "Orienta Czech",
+      "type": "agency",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Grafton Recruitment",
+      "type": "agency",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Manpower",
+      "type": "agency",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Hofmann Wizard",
+      "type": "agency",
+      "priority": 1,
+      "active": true
+    },
+    {
+      "name": "Randstad",
+      "type": "agency",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Adecco",
+      "type": "agency",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Trenkwalder",
+      "type": "agency",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Advantage Consulting",
+      "type": "agency",
+      "priority": 2,
+      "active": true
+    }
+  ]
+}
