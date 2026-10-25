@@ -5,24 +5,28 @@
     "company": "SOŠ obchodu, užitého umění a designu – Nerudovka",
     "location": "Plzeň",
     "category": "Školství",
-    "status": "active",
-    "changed": false,
+    "status": "probable",
+    "changed": true,
     "fit": 88,
     "published": "2026-08-19",
     "updated": "2026-10-25",
     "salary": "36 780–44 420 Kč",
-    "workload": "Plný i zkrácený",
-    "parttime": true,
+    "workload": "Plný úvazek (1,0); zkrácený není v aktuálně dohledaném inzerátu potvrzen",
+    "parttime": false,
     "homeoffice": false,
     "homeText": "Neuveden",
     "flexible": "Dle rozvrhu / dohody",
     "contract": "Na rok, možnost prodloužení",
     "software": "Neuvedeno",
     "deadline": "Neuvedena",
-    "source_url": "https://www.nerudovka.cz/",
-    "summary": "Ekonomické předměty a účetnictví. V průběhu monitoringu se u zdrojů střídal plný a plný/zkrácený úvazek.",
-    "why": "Velmi zajímavé díky odbornému zaměření a možnosti zkráceného úvazku.",
+    "source_url": "https://praceveskole.cz/volna-mista/ucitel-ka-ekonomickych-predmetu-stredni-odborna-skola-obchodu-uziteho-umeni-a-designu-plzen-nerudova-33",
+    "summary": "Nerudovka hledala 1 učitele odborných ekonomických předmětů s nástupem 24. 8. / 1. 9. 2026, platem 36 780–44 420 Kč, 8 týdny dovolené, stravenkami a odměnami; smlouva na 1 rok s možností prodloužení. Dohledaný detail inzerátu uvádí pouze plný úvazek 1,0. Po začátku školního roku není samostatně potvrzeno, zda místo zůstává neobsazené.",
+    "why": "Oborově zajímavé, ale mimo 30min dojezd a dohledaný inzerát uvádí jen plný úvazek. Aktuálnost volného místa vyžaduje ověření u školy.",
     "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Nová kontrola detailu na Práce ve škole potvrzuje pouze plný úvazek 1,0 (nikoli dříve uváděný zkrácený). Proto byla opravena možnost zkráceného úvazku a stav snížen na pravděpodobně aktivní; původní nástup byl již v srpnu/září. https://praceveskole.cz/volna-mista/ucitel-ka-ekonomickych-predmetu-stredni-odborna-skola-obchodu-uziteho-umeni-a-designu-plzen-nerudova-33"
+      },
       {
         "date": "2026-10-25",
         "text": "Stále sledována jako aktivní; bez nové změny podmínek."
@@ -59,10 +63,14 @@
     "contract": "Neuvedeno",
     "software": "Neuvedeno",
     "deadline": "Neuvedena",
-    "source_url": "https://www.a-n.cz/",
+    "source_url": "https://www.gigaprace.cz/nabidka-prace/kdgqv5/hlavni-ucetni-domazlice",
     "summary": "Kompletní účetnictví, daně, DPH, uzávěrky a komunikace s úřady. Rozsah HO není veřejně konkretizován.",
     "why": "Za prověření – vysoká mzda a pružnost; klíčové je ověřit pravidelný odpolední HO.",
     "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Doplněn přímý odkaz na kopii detailu nabídky, která stále zobrazuje 50–80 tis. Kč a občasný HO. Inwork ji současně označuje za neaktivní; status proto zůstává pravděpodobně aktivní. https://www.gigaprace.cz/nabidka-prace/kdgqv5/hlavni-ucetni-domazlice ; https://www.inwork.cz/prace/plzensky-kraj/domazlice/domazlice/6311050-hlavni-ucetni/"
+      },
       {
         "date": "2026-10-25",
         "text": "Ruční kontrola 25.10.2026: nabídka je stále aktivní na Pracomat/PráceAZ, zatímco JenPráce ji označuje jako ukončenou; stav proto zůstává „pravděpodobně aktivní“."
@@ -100,9 +108,13 @@
     "software": "SAP výhodou",
     "deadline": "Neuvedena",
     "source_url": "https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
-    "summary": "Finanční účetnictví, faktury, banka, hlavní kniha, majetek a měsíční uzávěrky. Přímý inzerát zaměstnavatele potvrzuje plný i zkrácený úvazek; Atmoskop/Jobs.cz potvrzuje pružnou pracovní dobu a občasný home office. Agenturní nabídka Orienta se shodnými podmínkami pravděpodobně míří na stejnou pozici, proto není vedena duplicitně.",
+    "summary": "Přímý inzerát BTT Solutions v Holýšově potvrzuje plný i zkrácený úvazek, pružný začátek/konec pracovní doby, občasný home office, 13. plat, 5 týdnů dovolené, dopravu a vzdělávání. Náplň: faktury, banka, hlavní kniha, DPH a uzávěrky. SAP FI výhodou, pokročilá angličtina je v popisu požadována; němčina výhodou. Zaměstnavatel uvádí asi 150 zaměstnanců; přímý inzerát neuvádí mzdu, agenturní podobná nabídka 45–55 tis. Kč může být stejná pozice.",
     "why": "Velmi vhodné – silná kombinace lokality, zkráceného úvazku, flexibility a HO.",
     "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Doplněny ověřené požadavky z přímého inzerátu: dobrá angličtina, SAP FI výhodou; benefit 13. plat, 5 týdnů dovolené a pružný začátek/konec pracovní doby. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/"
+      },
       {
         "date": "2026-10-25",
         "text": "Aktualizace 25.10.2026: přímý inzerát BTT potvrzuje plný i zkrácený úvazek; aktuální přímý inzerát mzdu neuvádí. Agenturní nabídka 45–55 tis. Kč je evidována jen jako doplňkový údaj."
@@ -126,19 +138,23 @@
     "fit": 86,
     "published": "2026-09-20",
     "updated": "2026-10-25",
-    "salary": "Neuvedena v aktuální oficiální nabídce",
+    "salary": "45 000–70 000 Kč dle zkušeností (samostatný podrobný inzerát zaměstnavatele)",
     "workload": "Plný",
     "parttime": false,
-    "homeoffice": false,
-    "homeText": "Aktuální oficiální nabídka home office neuvádí",
+    "homeoffice": true,
+    "homeText": "Omezený home office po dohodě (podrobný inzerát zaměstnavatele)",
     "flexible": "Neuvedeno",
     "contract": "HPP na dobu neurčitou",
     "software": "PAMICA výhodou u mzdové agendy",
     "deadline": "Neuvedena",
-    "source_url": "https://www.lttrade.cz/kariera/",
-    "summary": "Finanční účetní ve Stodu: spolupráce na finančním účetnictví, kontrola faktur a fakturace; výhodou je možnost zpracovat mzdy pro cca 80 lidí. Aktuální oficiální kariérní stránka uvádí HPP na dobu neurčitou, 5 týdnů dovolené, 13. plat, příspěvek na dopravu, školení a služební telefon; aktuálně neuvádí mzdu ani home office.",
-    "why": "Za prověření – dobrá mzda a lokalita, ale bez potvrzeného zkráceného úvazku.",
+    "source_url": "https://www.lttrade.cz/kariera/financni_ucetni/",
+    "summary": "LT trade na svém webu zveřejňuje podrobný inzerát finanční účetní s odpovědností za celé účetnictví, závěrky, DPH, banky, majetek a komunikaci s auditory a daňovým poradcem; nabízí 45–70 tis. Kč a omezený home office po dohodě. Současně na hlavní kariérní stránce zveřejňuje stručnější variantu finanční účetní, kde je mzda i HO neuvedena, ale jsou vypsány 13. plat, 5 týdnů dovolené a příspěvek na dopravu. Není potvrzeno, zda jde o tutéž konkrétní náborovou pozici; varianty jsou zatím sloučeny pod jedním záznamem, aby nevznikala duplicita.",
+    "why": "Za prověření – dobrá lokalita a doložená mzda 45–70 tis. Kč s omezeným HO v podrobném oficiálním inzerátu; zkrácený úvazek není potvrzen.",
     "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Důležitá oprava: podrobný inzerát na oficiálním webu LT trade je stále dostupný a uvádí 45–70 tis. Kč a omezený home office po dohodě. Dřívější závěr, že jde pouze o neaktuální údaje, nebyl správný. Na hlavní kariérní stránce je také stručnější verze bez mzdy a HO. Zdroje: https://www.lttrade.cz/kariera/financni_ucetni/ ; https://www.lttrade.cz/kariera/"
+      },
       {
         "date": "2026-10-25",
         "text": "Upřesnění 25.10.2026: dřívější údaj 45–70 tis. Kč a omezený HO patřil starší verzi. Aktuální oficiální nabídka LT trade nyní mzdu ani HO neuvádí."
@@ -226,10 +242,10 @@
     "location": "Klenčí pod Čerchovem",
     "category": "Ekonomika / rozpočet",
     "status": "ended",
-    "changed": false,
+    "changed": true,
     "fit": 78,
     "published": "2026-09-01",
-    "updated": "2026-09-30",
+    "updated": "2026-10-25",
     "salary": "od 35 840 Kč + osobní příplatek",
     "workload": "Plný",
     "parttime": false,
@@ -244,12 +260,16 @@
     "why": "Profesně velmi vhodné, ale výběrové řízení je ukončené.",
     "history": [
       {
+        "date": "2026-10-25",
+        "text": "Opraven odhad dojezdu Klenčí: předchozích 15 min nebylo dostatečně doloženo; nově orientačně 20 min v běžném provozu (trasa přes Meclov), pozice zůstává ukončená."
+      },
+      {
         "date": "2026-09-30",
         "text": "Uzávěrka výběrového řízení."
       }
     ],
-    "commute_minutes": 15,
-    "commute_note": "Přibližný dojezd z Horšovského Týna do Klenčí je kolem 15 min; pozice je již ukončená."
+    "commute_minutes": 20,
+    "commute_note": "Opravený orientační dojezd: cca 20 min autem z centra Horšovského Týna do Klenčí pod Čerchovem; podle plánovače DobráCesta trasa přes Meclov cca 17 km, 12 min za ideálních podmínek, s rezervou pro běžný provoz. Pozice je ukončená."
   },
   {
     "id": "lttrade-mzdova",
@@ -258,7 +278,7 @@
     "location": "Stod",
     "category": "Mzdy / personalistika",
     "status": "active",
-    "changed": true,
+    "changed": false,
     "fit": 79,
     "published": "",
     "updated": "2026-10-25",
@@ -302,13 +322,17 @@
     "flexible": "Flexibilní pracovní doba",
     "contract": "Neuvedeno",
     "software": "Neuvedeno",
-    "deadline": "Jobs.cz uvádí konec během několika dnů",
-    "source_url": "https://www.jobs.cz/prace/?company=1703021842",
+    "deadline": "Inzerát Jobs.cz k 25.10.2026 označuje jako končící během několika dnů; přesné datum neověřeno",
+    "source_url": "https://joober.ai/cs/prace/detail/795388f2-de39-40ad-883a-0dce64efed1b",
     "commute_minutes": 15,
     "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM).",
-    "summary": "Klientské účetnictví v Domažlicích: kompletní účetnictví klientů, DPH, závěrky, kontrolní a souhrnná hlášení a reporting. Ve veřejných zdrojích je uvedena komunikativní němčina a minimálně několik let praxe; Jobs.cz potvrzuje možnost občasné práce z domova.",
+    "summary": "BDO Group – senior účetní klientského účetnictví v Domažlicích, plný úvazek, občasný HO a flexibilní pracovní doba. Samostatné vedení účetnictví klientů, DPH, hlášení, závěrky a reporting; min. 3 roky praxe a komunikativní němčina. Benefity: 5 týdnů dovolené, bonusy, cafeteria, Multisport, stravenkový paušál, školení a možnost certifikace ICSÚ. Mzda neuvedena.",
     "why": "Velmi zajímavé – krátký dojezd a HO, ale jde o seniorní plný úvazek a němčina je významný požadavek.",
     "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Doplněny ověřené požadavky: minimálně 3 roky praxe, komunikativní němčina, benefity a blížící se konec inzerce. Podklad: https://joober.ai/cs/prace/detail/795388f2-de39-40ad-883a-0dce64efed1b ; https://www.atmoskop.cz/nazory-na-zamestnavatele/75552-bdo-group/hodnoceni"
+      },
       {
         "date": "2026-10-25",
         "text": "Nově zařazena při ruční kontrole; nabídka je aktuálně aktivní na Jobs.cz."
@@ -322,7 +346,7 @@
     "location": "Domažlice – Bezděkovské Předměstí",
     "category": "Účetnictví",
     "status": "active",
-    "changed": true,
+    "changed": false,
     "fit": 72,
     "published": "2026-10-09",
     "updated": "2026-10-25",
