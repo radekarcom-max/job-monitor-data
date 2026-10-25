@@ -36,8 +36,8 @@
         "text": "První zachycení nabídky."
       }
     ],
-    "commute_minutes": null,
-    "commute_note": ""
+    "commute_minutes": 50,
+    "commute_note": "Výjimka z 30min limitu. Waysur/OSRM uvádí přibližně 50 min autem; jiné plánovače mohou ukázat kratší čas."
   },
   {
     "id": "arture",
@@ -65,6 +65,10 @@
     "history": [
       {
         "date": "2026-10-25",
+        "text": "Ruční kontrola 25.10.2026: nabídka je stále aktivní na Pracomat/PráceAZ, zatímco JenPráce ji označuje jako ukončenou; stav proto zůstává „pravděpodobně aktivní“."
+      },
+      {
+        "date": "2026-10-25",
         "text": "Jeden zdroj ji označil za neaktuální, jiné ji stále zobrazují."
       },
       {
@@ -72,8 +76,8 @@
         "text": "Potvrzena mzda 50–80 tis. Kč a občasný HO."
       }
     ],
-    "commute_minutes": null,
-    "commute_note": ""
+    "commute_minutes": 15,
+    "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM)."
   },
   {
     "id": "btt",
@@ -82,11 +86,11 @@
     "location": "Holýšov",
     "category": "Účetnictví",
     "status": "active",
-    "changed": false,
+    "changed": true,
     "fit": 94,
     "published": "2026-10-19",
-    "updated": "2026-10-22",
-    "salary": "45 000–55 000 Kč",
+    "updated": "2026-10-25",
+    "salary": "Neuvedena u přímého zaměstnavatele; agenturní inzerát uvádí 45 000–55 000 Kč",
     "workload": "Plný i zkrácený",
     "parttime": true,
     "homeoffice": true,
@@ -95,17 +99,21 @@
     "contract": "Doba určitá",
     "software": "SAP výhodou",
     "deadline": "Neuvedena",
-    "source_url": "",
-    "summary": "Finanční účetnictví, majetek, uzávěrky a podklady k daním. Kombinuje zkrácený úvazek, pružnou dobu a HO.",
+    "source_url": "https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
+    "summary": "Finanční účetnictví, faktury, banka, hlavní kniha, majetek a měsíční uzávěrky. Přímý inzerát zaměstnavatele potvrzuje plný i zkrácený úvazek; Atmoskop/Jobs.cz potvrzuje pružnou pracovní dobu a občasný home office. Agenturní nabídka Orienta se shodnými podmínkami pravděpodobně míří na stejnou pozici, proto není vedena duplicitně.",
     "why": "Velmi vhodné – silná kombinace lokality, zkráceného úvazku, flexibility a HO.",
     "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Aktualizace 25.10.2026: přímý inzerát BTT potvrzuje plný i zkrácený úvazek; aktuální přímý inzerát mzdu neuvádí. Agenturní nabídka 45–55 tis. Kč je evidována jen jako doplňkový údaj."
+      },
       {
         "date": "2026-10-22",
         "text": "Doplněno mzdové rozpětí 45–55 tis. Kč."
       }
     ],
-    "commute_minutes": null,
-    "commute_note": ""
+    "commute_minutes": 15,
+    "commute_note": "Horšovský Týn–Holýšov přibližně 15 min autem (Waysur/OSRM; Rome2Rio cca 13 min)."
   },
   {
     "id": "lttrade",
@@ -114,30 +122,34 @@
     "location": "Stod",
     "category": "Účetnictví",
     "status": "active",
-    "changed": false,
+    "changed": true,
     "fit": 86,
     "published": "2026-09-20",
-    "updated": "2026-10-24",
-    "salary": "45 000–70 000 Kč",
+    "updated": "2026-10-25",
+    "salary": "Neuvedena v aktuální oficiální nabídce",
     "workload": "Plný",
     "parttime": false,
-    "homeoffice": true,
-    "homeText": "Omezený HO po dohodě",
+    "homeoffice": false,
+    "homeText": "Aktuální oficiální nabídka home office neuvádí",
     "flexible": "Neuvedeno",
-    "contract": "HPP",
+    "contract": "HPP na dobu neurčitou",
     "software": "PAMICA výhodou u mzdové agendy",
     "deadline": "Neuvedena",
-    "source_url": "",
-    "summary": "Kompletní finanční účetnictví, DPH, závěrky a spolupráce s auditory.",
+    "source_url": "https://www.lttrade.cz/kariera/",
+    "summary": "Finanční účetní ve Stodu: spolupráce na finančním účetnictví, kontrola faktur a fakturace; výhodou je možnost zpracovat mzdy pro cca 80 lidí. Aktuální oficiální kariérní stránka uvádí HPP na dobu neurčitou, 5 týdnů dovolené, 13. plat, příspěvek na dopravu, školení a služební telefon; aktuálně neuvádí mzdu ani home office.",
     "why": "Za prověření – dobrá mzda a lokalita, ale bez potvrzeného zkráceného úvazku.",
     "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Upřesnění 25.10.2026: dřívější údaj 45–70 tis. Kč a omezený HO patřil starší verzi. Aktuální oficiální nabídka LT trade nyní mzdu ani HO neuvádí."
+      },
       {
         "date": "2026-10-24",
         "text": "Potvrzena mzda 45–70 tis. Kč a omezený HO po dohodě."
       }
     ],
-    "commute_minutes": null,
-    "commute_note": ""
+    "commute_minutes": 19,
+    "commute_note": "Horšovský Týn–Stod přibližně 19 min autem podle veřejného přehledu tras."
   },
   {
     "id": "uol",
@@ -164,12 +176,16 @@
     "why": "Za prověření – oborově vhodné a potenciálně flexibilní.",
     "history": [
       {
+        "date": "2026-10-25",
+        "text": "Ruční kontrola 25.10.2026: nabídka Mzdový/á účetní Domažlice je stále dohledatelná na Indeed; bez nové změny veřejných podmínek."
+      },
+      {
         "date": "2026-09-26",
         "text": "První zachycení nabídky v Domažlicích."
       }
     ],
-    "commute_minutes": null,
-    "commute_note": ""
+    "commute_minutes": 15,
+    "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM)."
   },
   {
     "id": "stankov",
@@ -200,8 +216,8 @@
         "text": "Zjištěna shoda mzdy s hranicí pro modrou kartu."
       }
     ],
-    "commute_minutes": null,
-    "commute_note": ""
+    "commute_minutes": 15,
+    "commute_note": "Horšovský Týn–Staňkov přibližně 15 min autem (Waysur/OSRM)."
   },
   {
     "id": "klenci",
@@ -232,7 +248,103 @@
         "text": "Uzávěrka výběrového řízení."
       }
     ],
-    "commute_minutes": null,
-    "commute_note": ""
+    "commute_minutes": 15,
+    "commute_note": "Přibližný dojezd z Horšovského Týna do Klenčí je kolem 15 min; pozice je již ukončená."
+  },
+  {
+    "id": "lttrade-mzdova",
+    "title": "Mzdová účetní",
+    "company": "LT trade s.r.o.",
+    "location": "Stod",
+    "category": "Mzdy / personalistika",
+    "status": "active",
+    "changed": true,
+    "fit": 79,
+    "published": "",
+    "updated": "2026-10-25",
+    "salary": "Neuvedena",
+    "workload": "Plný",
+    "parttime": false,
+    "homeoffice": false,
+    "homeText": "Aktuální oficiální nabídka home office neuvádí",
+    "flexible": "Neuvedeno",
+    "contract": "HPP na dobu neurčitou",
+    "software": "PAMICA výhodou",
+    "deadline": "Neuvedena",
+    "source_url": "https://www.lttrade.cz/kariera/",
+    "commute_minutes": 19,
+    "commute_note": "Horšovský Týn–Stod přibližně 19 min autem podle veřejného přehledu tras.",
+    "summary": "Kompletní zpracování mezd pro přibližně 80 zaměstnanců, exekuce a insolvence, komunikace s ČSSZ, zdravotními pojišťovnami a FÚ a podpora finančního účetnictví. LT trade uvádí, že samotné zpracování mezd zabere přibližně 2 dny měsíčně.",
+    "why": "Za prověření – velmi vhodný obor a krátký dojezd; nevýhodou je plný úvazek a bez veřejně potvrzeného HO.",
+    "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Nově zařazena při ruční kontrole z aktuální oficiální kariérní stránky LT trade."
+      }
+    ]
+  },
+  {
+    "id": "bdo-domazlice",
+    "title": "Senior účetní – klientské účetnictví",
+    "company": "BDO Group s.r.o.",
+    "location": "Domažlice – Týnské Předměstí",
+    "category": "Účetnictví",
+    "status": "active",
+    "changed": true,
+    "fit": 84,
+    "published": "2026-09-25",
+    "updated": "2026-10-25",
+    "salary": "Neuvedena zaměstnavatelem",
+    "workload": "Plný",
+    "parttime": false,
+    "homeoffice": true,
+    "homeText": "Možnost občasné práce z domova",
+    "flexible": "Flexibilní pracovní doba",
+    "contract": "Neuvedeno",
+    "software": "Neuvedeno",
+    "deadline": "Jobs.cz uvádí konec během několika dnů",
+    "source_url": "https://www.jobs.cz/prace/?company=1703021842",
+    "commute_minutes": 15,
+    "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM).",
+    "summary": "Klientské účetnictví v Domažlicích: kompletní účetnictví klientů, DPH, závěrky, kontrolní a souhrnná hlášení a reporting. Ve veřejných zdrojích je uvedena komunikativní němčina a minimálně několik let praxe; Jobs.cz potvrzuje možnost občasné práce z domova.",
+    "why": "Velmi zajímavé – krátký dojezd a HO, ale jde o seniorní plný úvazek a němčina je významný požadavek.",
+    "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Nově zařazena při ruční kontrole; nabídka je aktuálně aktivní na Jobs.cz."
+      }
+    ]
+  },
+  {
+    "id": "carpoint-domazlice",
+    "title": "Hlavní účetní",
+    "company": "CAR POINT s.r.o.",
+    "location": "Domažlice – Bezděkovské Předměstí",
+    "category": "Účetnictví",
+    "status": "active",
+    "changed": true,
+    "fit": 72,
+    "published": "2026-10-09",
+    "updated": "2026-10-25",
+    "salary": "Neuvedena v aktuálním veřejném náhledu Jobs.cz",
+    "workload": "Plný",
+    "parttime": false,
+    "homeoffice": false,
+    "homeText": "Home office není v aktuálním veřejném náhledu potvrzen",
+    "flexible": "Neuvedeno",
+    "contract": "Neuvedeno",
+    "software": "Neuvedeno",
+    "deadline": "Jobs.cz uvádí konec během několika dnů",
+    "source_url": "https://www.jobs.cz/prace/hlavni-ucetni/?q%5B%5D=chief+accountant",
+    "commute_minutes": 15,
+    "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM).",
+    "summary": "Aktuální nabídka hlavní účetní u přímého zaměstnavatele CAR POINT v Domažlicích. Jobs.cz ji k 25.10.2026 stále uvádí jako aktivní a aktualizovanou; veřejný náhled momentálně nezobrazuje všechny podmínky.",
+    "why": "Za prověření – velmi dobrý dojezd a vedoucí účetní pozice; před reakcí je vhodné ověřit mzdu, pracovní dobu a případný HO.",
+    "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Nově zařazena do webového monitoringu; Jobs.cz ji stále uvádí jako aktivní a aktualizovanou."
+      }
+    ]
   }
 ]
