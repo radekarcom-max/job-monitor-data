@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-10-25",
   "search_rule": {
     "origin": "Horšovský Týn",
@@ -251,6 +251,12 @@
       "name": "Advantage Consulting",
       "type": "agency",
       "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Práce ve škole – praceveskole.cz",
+      "type": "school",
+      "priority": 1,
       "active": true
     }
   ]
