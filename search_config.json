@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "updated": "2026-10-25",
+  "origin": "Horšovský Týn",
+  "max_drive_minutes": 30,
+  "commute_filter": {
+    "strict": true,
+    "mode": "car",
+    "traffic": "normal/typical",
+    "verify_if_uncertain": true,
+    "exclude_if_over_limit": true,
+    "do_not_use_only_km_radius": true,
+    "fully_remote_exception": true,
+    "explicit_legacy_exception": "Nerudovka Plzeň"
+  },
+  "ranking_preferences": [
+    "zkrácený úvazek 20–35 hodin týdně",
+    "pravidelný nebo částečný home office",
+    "pružná pracovní doba",
+    "účetnictví, mzdy, personalistika, rozpočet, ekonomika",
+    "učitel ekonomických předmětů / účetnictví",
+    "veřejná správa, škola nebo příspěvková organizace"
+  ]
+}
