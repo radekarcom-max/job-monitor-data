@@ -1,0 +1,224 @@
+[
+  {
+    "id": "nerudovka",
+    "title": "Učitel/ka ekonomických předmětů",
+    "company": "SOŠ obchodu, užitého umění a designu – Nerudovka",
+    "location": "Plzeň",
+    "category": "Školství",
+    "status": "active",
+    "changed": false,
+    "fit": 88,
+    "published": "2026-08-19",
+    "updated": "2026-10-25",
+    "salary": "36 780–44 420 Kč",
+    "workload": "Plný i zkrácený",
+    "parttime": true,
+    "homeoffice": false,
+    "homeText": "Neuveden",
+    "flexible": "Dle rozvrhu / dohody",
+    "contract": "Na rok, možnost prodloužení",
+    "software": "Neuvedeno",
+    "deadline": "Neuvedena",
+    "source_url": "https://www.nerudovka.cz/",
+    "summary": "Ekonomické předměty a účetnictví. V průběhu monitoringu se u zdrojů střídal plný a plný/zkrácený úvazek.",
+    "why": "Velmi zajímavé díky odbornému zaměření a možnosti zkráceného úvazku.",
+    "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Stále sledována jako aktivní; bez nové změny podmínek."
+      },
+      {
+        "date": "2026-10-02",
+        "text": "Znovu potvrzena možnost plného i zkráceného úvazku."
+      },
+      {
+        "date": "2026-08-19",
+        "text": "První zachycení nabídky."
+      }
+    ]
+  },
+  {
+    "id": "arture",
+    "title": "Hlavní účetní",
+    "company": "ARTURE Art & Nature s.r.o.",
+    "location": "Domažlice",
+    "category": "Účetnictví",
+    "status": "probable",
+    "changed": true,
+    "fit": 82,
+    "published": "2026-04-01",
+    "updated": "2026-10-25",
+    "salary": "50 000–80 000 Kč",
+    "workload": "Plný",
+    "parttime": false,
+    "homeoffice": true,
+    "homeText": "Občasný HO",
+    "flexible": "Pružná pracovní doba",
+    "contract": "Neuvedeno",
+    "software": "Neuvedeno",
+    "deadline": "Neuvedena",
+    "source_url": "https://www.a-n.cz/",
+    "summary": "Kompletní účetnictví, daně, DPH, uzávěrky a komunikace s úřady. Rozsah HO není veřejně konkretizován.",
+    "why": "Za prověření – vysoká mzda a pružnost; klíčové je ověřit pravidelný odpolední HO.",
+    "history": [
+      {
+        "date": "2026-10-25",
+        "text": "Jeden zdroj ji označil za neaktuální, jiné ji stále zobrazují."
+      },
+      {
+        "date": "2026-09-15",
+        "text": "Potvrzena mzda 50–80 tis. Kč a občasný HO."
+      }
+    ]
+  },
+  {
+    "id": "btt",
+    "title": "Finanční účetní",
+    "company": "BTT Solutions CZ s.r.o.",
+    "location": "Holýšov",
+    "category": "Účetnictví",
+    "status": "active",
+    "changed": false,
+    "fit": 94,
+    "published": "2026-10-19",
+    "updated": "2026-10-22",
+    "salary": "45 000–55 000 Kč",
+    "workload": "Plný i zkrácený",
+    "parttime": true,
+    "homeoffice": true,
+    "homeText": "Občasný HO",
+    "flexible": "Pružná pracovní doba",
+    "contract": "Doba určitá",
+    "software": "SAP výhodou",
+    "deadline": "Neuvedena",
+    "source_url": "",
+    "summary": "Finanční účetnictví, majetek, uzávěrky a podklady k daním. Kombinuje zkrácený úvazek, pružnou dobu a HO.",
+    "why": "Velmi vhodné – silná kombinace lokality, zkráceného úvazku, flexibility a HO.",
+    "history": [
+      {
+        "date": "2026-10-22",
+        "text": "Doplněno mzdové rozpětí 45–55 tis. Kč."
+      }
+    ]
+  },
+  {
+    "id": "lttrade",
+    "title": "Finanční účetní",
+    "company": "LT trade s.r.o.",
+    "location": "Stod",
+    "category": "Účetnictví",
+    "status": "active",
+    "changed": false,
+    "fit": 86,
+    "published": "2026-09-20",
+    "updated": "2026-10-24",
+    "salary": "45 000–70 000 Kč",
+    "workload": "Plný",
+    "parttime": false,
+    "homeoffice": true,
+    "homeText": "Omezený HO po dohodě",
+    "flexible": "Neuvedeno",
+    "contract": "HPP",
+    "software": "PAMICA výhodou u mzdové agendy",
+    "deadline": "Neuvedena",
+    "source_url": "",
+    "summary": "Kompletní finanční účetnictví, DPH, závěrky a spolupráce s auditory.",
+    "why": "Za prověření – dobrá mzda a lokalita, ale bez potvrzeného zkráceného úvazku.",
+    "history": [
+      {
+        "date": "2026-10-24",
+        "text": "Potvrzena mzda 45–70 tis. Kč a omezený HO po dohodě."
+      }
+    ]
+  },
+  {
+    "id": "uol",
+    "title": "Mzdová účetní – junior/senior",
+    "company": "UOL Účetnictví",
+    "location": "Domažlice",
+    "category": "Mzdy / personalistika",
+    "status": "probable",
+    "changed": false,
+    "fit": 77,
+    "published": "2026-09-26",
+    "updated": "2026-10-25",
+    "salary": "31 500–45 000 Kč",
+    "workload": "Plný",
+    "parttime": false,
+    "homeoffice": true,
+    "homeText": "Online firma – konkrétní režim neověřen",
+    "flexible": "Neuvedeno",
+    "contract": "Neuvedeno",
+    "software": "Vlastní online systém",
+    "deadline": "Neuvedena",
+    "source_url": "https://www.uol.cz/",
+    "summary": "Kompletní zpracování mezd pro klienty a komunikace s úřady. Konkrétní režim HO je potřeba ověřit.",
+    "why": "Za prověření – oborově vhodné a potenciálně flexibilní.",
+    "history": [
+      {
+        "date": "2026-09-26",
+        "text": "První zachycení nabídky v Domažlicích."
+      }
+    ]
+  },
+  {
+    "id": "stankov",
+    "title": "Hlavní účetní",
+    "company": "Thi Thu Phuong Hoang",
+    "location": "Staňkov",
+    "category": "Účetnictví",
+    "status": "probable",
+    "changed": false,
+    "fit": 48,
+    "published": "2026-04-01",
+    "updated": "2026-09-15",
+    "salary": "73 823 Kč",
+    "workload": "Plný",
+    "parttime": false,
+    "homeoffice": false,
+    "homeText": "Neuveden",
+    "flexible": "Neuvedeno",
+    "contract": "Neuvedeno",
+    "software": "Neuvedeno",
+    "deadline": "Neuvedena",
+    "source_url": "",
+    "summary": "Neobvyklá nabídka s přesnou mzdou odpovídající tehdejší hranici pro modrou kartu; vietnamština výhodou.",
+    "why": "Méně vhodné – nabídka může být nastavena pro specifický typ uchazeče.",
+    "history": [
+      {
+        "date": "2026-09-15",
+        "text": "Zjištěna shoda mzdy s hranicí pro modrou kartu."
+      }
+    ]
+  },
+  {
+    "id": "klenci",
+    "title": "Účetní městyse",
+    "company": "Městys Klenčí pod Čerchovem",
+    "location": "Klenčí pod Čerchovem",
+    "category": "Ekonomika / rozpočet",
+    "status": "ended",
+    "changed": false,
+    "fit": 78,
+    "published": "2026-09-01",
+    "updated": "2026-09-30",
+    "salary": "od 35 840 Kč + osobní příplatek",
+    "workload": "Plný",
+    "parttime": false,
+    "homeoffice": false,
+    "homeText": "Neuveden",
+    "flexible": "Neuvedeno",
+    "contract": "Výběrové řízení",
+    "software": "GORDIC / GINIS Express",
+    "deadline": "30. 9. 2026 15:00",
+    "source_url": "",
+    "summary": "Komplexní účetnictví obce, rozpočet, závěrečný účet a podklady pro přezkum.",
+    "why": "Profesně velmi vhodné, ale výběrové řízení je ukončené.",
+    "history": [
+      {
+        "date": "2026-09-30",
+        "text": "Uzávěrka výběrového řízení."
+      }
+    ]
+  }
+]
