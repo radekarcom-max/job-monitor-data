@@ -6,7 +6,7 @@
     "location": "Plzeň",
     "category": "Školství",
     "status": "probable",
-    "changed": true,
+    "changed": false,
     "fit": 88,
     "published": "2026-08-19",
     "updated": "2026-10-25",
@@ -41,7 +41,9 @@
       }
     ],
     "commute_minutes": 50,
-    "commute_note": "Výjimka z 30min limitu. Waysur/OSRM uvádí přibližně 50 min autem; jiné plánovače mohou ukázat kratší čas."
+    "commute_note": "Výjimka z 30min limitu. Waysur/OSRM uvádí přibližně 50 min autem; jiné plánovače mohou ukázat kratší čas.",
+    "last_checked": "2026-10-26",
+    "verification_note": "Práce ve škole: nabídka je stále dohledatelná, původní nástup 1.9.2026; obsazení místa není potvrzeno."
   },
   {
     "id": "arture",
@@ -50,7 +52,7 @@
     "location": "Domažlice",
     "category": "Účetnictví",
     "status": "probable",
-    "changed": true,
+    "changed": false,
     "fit": 82,
     "published": "2026-04-01",
     "updated": "2026-10-25",
@@ -85,7 +87,9 @@
       }
     ],
     "commute_minutes": 15,
-    "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM)."
+    "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM).",
+    "last_checked": "2026-10-26",
+    "verification_note": "Pracomat, GigaPráce a JenPráce: nabídka nadále dohledatelná, přímé potvrzení od zaměstnavatele chybí."
   },
   {
     "id": "btt",
@@ -94,7 +98,7 @@
     "location": "Holýšov",
     "category": "Účetnictví",
     "status": "active",
-    "changed": true,
+    "changed": false,
     "fit": 94,
     "published": "2026-10-19",
     "updated": "2026-10-25",
@@ -125,7 +129,9 @@
       }
     ],
     "commute_minutes": 15,
-    "commute_note": "Horšovský Týn–Holýšov přibližně 15 min autem (Waysur/OSRM; Rome2Rio cca 13 min)."
+    "commute_note": "Horšovský Týn–Holýšov přibližně 15 min autem (Waysur/OSRM; Rome2Rio cca 13 min).",
+    "last_checked": "2026-10-26",
+    "verification_note": "Přímý inzerát BTT na Prace.cz dohledatelný; plný i zkrácený úvazek."
   },
   {
     "id": "lttrade",
@@ -134,7 +140,7 @@
     "location": "Stod",
     "category": "Účetnictví",
     "status": "active",
-    "changed": true,
+    "changed": false,
     "fit": 86,
     "published": "2026-09-20",
     "updated": "2026-10-25",
@@ -165,7 +171,9 @@
       }
     ],
     "commute_minutes": 19,
-    "commute_note": "Horšovský Týn–Stod přibližně 19 min autem podle veřejného přehledu tras."
+    "commute_note": "Horšovský Týn–Stod přibližně 19 min autem podle veřejného přehledu tras.",
+    "last_checked": "2026-10-26",
+    "verification_note": "Oficiální kariérní stránky LT trade a podrobná nabídka dohledatelné."
   },
   {
     "id": "uol",
@@ -201,7 +209,9 @@
       }
     ],
     "commute_minutes": 15,
-    "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM)."
+    "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM).",
+    "last_checked": "2026-10-26",
+    "verification_note": "Indeed zobrazuje mzdovou účetní UOL Domažlice; přesný režim HO není doložen."
   },
   {
     "id": "stankov",
@@ -233,7 +243,9 @@
       }
     ],
     "commute_minutes": 15,
-    "commute_note": "Horšovský Týn–Staňkov přibližně 15 min autem (Waysur/OSRM)."
+    "commute_note": "Horšovský Týn–Staňkov přibližně 15 min autem (Waysur/OSRM).",
+    "last_checked": "2026-10-26",
+    "verification_note": "Pracomat uvádí inzerát hlavní účetní ve Staňkově, bez potvrzení zaměstnavatele."
   },
   {
     "id": "klenci",
@@ -242,7 +254,7 @@
     "location": "Klenčí pod Čerchovem",
     "category": "Ekonomika / rozpočet",
     "status": "ended",
-    "changed": true,
+    "changed": false,
     "fit": 78,
     "published": "2026-09-01",
     "updated": "2026-10-25",
@@ -269,7 +281,9 @@
       }
     ],
     "commute_minutes": 20,
-    "commute_note": "Opravený orientační dojezd: cca 20 min autem z centra Horšovského Týna do Klenčí pod Čerchovem; podle plánovače DobráCesta trasa přes Meclov cca 17 km, 12 min za ideálních podmínek, s rezervou pro běžný provoz. Pozice je ukončená."
+    "commute_note": "Opravený orientační dojezd: cca 20 min autem z centra Horšovského Týna do Klenčí pod Čerchovem; podle plánovače DobráCesta trasa přes Meclov cca 17 km, 12 min za ideálních podmínek, s rezervou pro běžný provoz. Pozice je ukončená.",
+    "last_checked": "2026-10-26",
+    "verification_note": "Výběrové řízení uzavřeno 30.9.2026; agregátory stále mohou zobrazovat starý inzerát."
   },
   {
     "id": "lttrade-mzdova",
@@ -301,7 +315,9 @@
         "date": "2026-10-25",
         "text": "Nově zařazena při ruční kontrole z aktuální oficiální kariérní stránky LT trade."
       }
-    ]
+    ],
+    "last_checked": "2026-10-26",
+    "verification_note": "Oficiální kariérní stránky LT trade nadále uvádějí mzdovou účetní."
   },
   {
     "id": "bdo-domazlice",
@@ -310,7 +326,7 @@
     "location": "Domažlice – Týnské Předměstí",
     "category": "Účetnictví",
     "status": "active",
-    "changed": true,
+    "changed": false,
     "fit": 84,
     "published": "2026-09-25",
     "updated": "2026-10-25",
@@ -337,7 +353,9 @@
         "date": "2026-10-25",
         "text": "Nově zařazena při ruční kontrole; nabídka je aktuálně aktivní na Jobs.cz."
       }
-    ]
+    ],
+    "last_checked": "2026-10-26",
+    "verification_note": "Jobs.cz a Atmoskop nadále zobrazují nabídku BDO Senior účetní."
   },
   {
     "id": "carpoint-domazlice",
@@ -368,6 +386,42 @@
       {
         "date": "2026-10-25",
         "text": "Nově zařazena do webového monitoringu; Jobs.cz ji stále uvádí jako aktivní a aktualizovanou."
+      }
+    ],
+    "last_checked": "2026-10-26",
+    "verification_note": "Jobs.cz nadále indexuje HLAVNÍ ÚČETNÍ – DOMAŽLICE u CAR POINT."
+  },
+  {
+    "id": "sbd-prestice-ucetni-20h",
+    "title": "Účetní – bytové družstvo a SVJ (20 hodin týdně)",
+    "company": "Stavební bytové družstvo Plzeň - jih se sídlem v Přešticích",
+    "location": "Přeštice",
+    "category": "Účetnictví",
+    "status": "probable",
+    "changed": true,
+    "fit": 84,
+    "published": "2026-09-23",
+    "updated": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "salary": "od 14 500 Kč hrubého měsíčně za 20 h/týden; 13. plat a prémie dle nabídky",
+    "workload": "Zkrácený úvazek, 20 h/týden; možnost přechodu na plný",
+    "parttime": true,
+    "homeoffice": false,
+    "homeText": "Neuveden / nepotvrzen",
+    "flexible": "Jednosměnný provoz, přesné rozvržení hodin neuvedeno",
+    "contract": "Pracovní poměr; nástup od 1. 1. 2027",
+    "software": "Neuvedeno",
+    "deadline": "Neuvedena",
+    "source_url": "https://www.pracomat.cz/prace/35065690703-ucetni-vseobecni",
+    "commute_minutes": 28,
+    "commute_note": "Hraniční dojezd: Dobracesta.com uvádí trasu Horšovský Týn–Přeštice 32 km / 28 min autem přes Staňkov a Merklín, BEZ dopravních zácp. V ranní špičce může cesta přesáhnout 30 min; čas do konkrétního pracoviště Hlávkova 23 je nutné ověřit.",
+    "summary": "Účetnictví bytového družstva a SVJ: bankovní transakce, přijaté a vydané faktury, měsíční a roční závěrky, daňová přiznání a podklady pro audit. SŠ ekonomického směru, praxe vítána. Benefity dle pracovních portálů: 5 týdnů dovolené, 13. plat, prémie, stravenkový paušál, příspěvky na pojištění a dovolenou. Inzerát je evidován na více portálech přebírajících veřejnou nabídku; přímé potvrzení obsazování od družstva chybí.",
+    "why": "Velmi vhodné kvůli 20 h týdně a účetní agendě; pozor na nízkou měsíční mzdu, nepotvrzený HO a dojezd těsně u hranice 30 minut.",
+    "verification_note": "Pracomat, PráceBlízko a Flekni uvádějí stejnou nabídku; na oficiálním webu družstva nebyla samostatná inzerce nalezena.",
+    "history": [
+      {
+        "date": "2026-10-26",
+        "text": "Nově zachyceno monitoringem 26.10.2026 (původně zveřejněno 23.9.2026). Před zařazením prověřen úvazek 20 h, mzda, benefity a hraniční dojezd; aktuálnost u zaměstnavatele zatím nepotvrzena."
       }
     ]
   }
