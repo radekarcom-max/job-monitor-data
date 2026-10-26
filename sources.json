@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "search_rule": {
     "origin": "Horšovský Týn",
     "max_drive_minutes": 30,
@@ -257,6 +257,18 @@
       "name": "Práce ve škole – praceveskole.cz",
       "type": "school",
       "priority": 1,
+      "active": true
+    },
+    {
+      "name": "PráceBlízko.cz",
+      "type": "aggregator",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Flekni.cz",
+      "type": "aggregator",
+      "priority": 2,
       "active": true
     }
   ]
