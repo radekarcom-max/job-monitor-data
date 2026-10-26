@@ -424,5 +424,45 @@
         "text": "Nově zachyceno monitoringem 26.10.2026 (původně zveřejněno 23.9.2026). Před zařazením prověřen úvazek 20 h, mzda, benefity a hraniční dojezd; aktuálnost u zaměstnavatele zatím nepotvrzena."
       }
     ]
+  },
+  {
+    "id": "eissmann-bor-ucetni-33587360748",
+    "title": "Účetní (M/Ž) – klasifikace hlavní účetní",
+    "company": "Eissmann Automotive Česká republika s.r.o.",
+    "location": "Bor – Vysočany 56, okres Tachov",
+    "category": "Účetnictví",
+    "status": "active",
+    "changed": true,
+    "fit": 73,
+    "published": "2026-08-14",
+    "updated": "2026-10-26",
+    "last_checked": "2026-10-26",
+    "salary": "od 60 000 Kč hrubého/měsíc dle nabídky převzaté z ÚP; starší agenturní verze uvádí od 55 000 Kč",
+    "workload": "Plný úvazek, jednosměnný provoz",
+    "parttime": false,
+    "homeoffice": false,
+    "homeText": "Home office není v dohledaných nabídkách uveden",
+    "flexible": "Jednosměnný provoz; pružná pracovní doba nepotvrzena",
+    "contract": "Pracovní poměr; nabídka ÚP uvádí možnost doby určité, konkrétní smlouvu ověřit",
+    "software": "Neuvedeno (MS Office požadován ve starším agenturním inzerátu)",
+    "deadline": "V nabídce převzaté z ÚP neuvedena; starší agenturní inzerát uváděl 8. 10. 2026",
+    "source_url": "https://www.pracomat.cz/prace/33587360748-hlavni-ucetni",
+    "commute_minutes": 24,
+    "commute_note": "Orientační dojezd do Boru 20 min/27 km podle plánovače DobráCesta (bez zácp); cca 24 min k pracovišti Vysočany 56 je odhad s rezervou na místní dojezd, nikoli měření dopravní špičky. https://www.dobracesta.com/vzdalenost/bor-cz-1599474359/hor%C5%A1ovsk%C3%BD-t%C3%BDn/",
+    "summary": "Výrobní společnost v Boru hledá účetní na plný úvazek za mzdu od 60 000 Kč. Údaj je doložen nabídkou ÚP č. 33587360748 převzatou na Pracomat, Kurzy.cz a HitPráce. Benefity: příspěvek na dopravu a stravování, 25 dní dovolené, roční a výroční prémie, cafeteria. Samostatný starší agenturní inzerát na hlavní účetní u téhož zaměstnavatele popisuje DPH, závěrky, majetek, audit a reporting, požaduje 5 let praxe a němčinu nebo angličtinu B2; není potvrzeno, že jde o přesně totožné výběrové řízení. Konkrétní rozsah práce a případný HO je potřeba potvrdit u zaměstnavatele.",
+    "why": "Za prověření: dobrá mzda a přibližně 20–25 min autem; plný úvazek bez doloženého HO a u podrobnějšího agenturního inzerátu náročnější jazykové požadavky.",
+    "verification_note": "ÚP ČR nabídka č. 33587360748 převzatá Pracomat, Kurzy.cz a HitPráce; jako aktivní ji stále uvádí regionální agregátory. Podrobný agenturní inzerát JOBSYSTEM má dřívější uzávěrku, proto jeho aktuálnost ani totožnost s nabídkou ÚP nelze automaticky předpokládat.",
+    "sources": [
+      "https://www.pracomat.cz/prace/33587360748-hlavni-ucetni",
+      "https://prace.kurzy.cz/urad-prace/nabidka-prace/hlavni-ucetni-ucetni-z-bor-7d1f673ec.html",
+      "https://www.jobsystem.cz/nabidky-prace/470777",
+      "https://www.dobracesta.com/vzdalenost/bor-cz-1599474359/hor%C5%A1ovsk%C3%BD-t%C3%BDn/"
+    ],
+    "history": [
+      {
+        "date": "2026-10-26",
+        "text": "Nově zařazeno do monitoringu (nikoli nově zveřejněno): dohledána nabídka ÚP č. 33587360748 původně ze 14. 8. 2026, stále uváděná jako aktivní. Dojezd cca 24 min je orientační. Podobný agenturní inzerát JOBSYSTEM (od 55 tis. Kč, uzávěrka 8.10.) není veden duplicitně, totožnost náboru není ověřena."
+      }
+    ]
   }
 ]
