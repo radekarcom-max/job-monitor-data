@@ -43,7 +43,7 @@
     "commute_minutes": 50,
     "commute_note": "Výjimka z 30min limitu. Waysur/OSRM uvádí přibližně 50 min autem; jiné plánovače mohou ukázat kratší čas.",
     "last_checked": "2026-10-27",
-    "verification_note": "Práce ve škole: nabídka je stále dohledatelná, původní nástup 1.9.2026; obsazení místa není potvrzeno."
+    "verification_note": "Kontrola 27.10.2026: inzerát Práce ve škole je stále veřejně dostupný, ale nástup byl 24.8./1.9.2026 a škola neobsazenost místa nově nepotvrdila. Jen plný úvazek 1,0."
   },
   {
     "id": "arture",
@@ -89,7 +89,7 @@
     "commute_minutes": 15,
     "commute_note": "15 min autem Horšovský Týn–Domažlice podle OSRM/OpenStreetMap: https://waysur.com/cs/horsovsky-tyn/domazlice",
     "last_checked": "2026-10-27",
-    "verification_note": "Pracomat, GigaPráce a JenPráce: nabídka nadále dohledatelná, přímé potvrzení od zaměstnavatele chybí."
+    "verification_note": "Kontrola 27.10.2026: Pracomat výslovně uvádí „nabídka již obsazena“, JenPráce a Inwork ji označují jako ukončenou; Portál řidiče a Jooble ji stále zobrazují jako aktuální. Přímé potvrzení zaměstnavatele chybí. Stav ponechán „pravděpodobně aktivní“ s výraznou nejistotou. https://www.pracomat.cz/prace/33002780742-hlavni-ucetni ; https://www.jenprace.cz/nabidka/udzt46/hlavni-ucetni ; https://www.portalridice.cz/nabidka-prace/detail/hlavni-ucetni-domazlice-arture-art-nature-s-r-o"
   },
   {
     "id": "btt",
@@ -131,7 +131,7 @@
     "commute_minutes": 15,
     "commute_note": "15 min autem Horšovský Týn–Holýšov podle OSRM/OpenStreetMap (městská centra; běžný provoz bez zácp): https://waysur.com/cs/horsovsky-tyn/holysov",
     "last_checked": "2026-10-27",
-    "verification_note": "Přímý inzerát BTT na Prace.cz dohledatelný; plný i zkrácený úvazek."
+    "verification_note": "Přímý inzerát zaměstnavatele na Prace.cz byl 27.10.2026 dostupný a označený jako aktualizovaný přibližně před 15 hodinami. Plný i zkrácený úvazek, občasný HO a pružná doba; konkrétní rozsah HO a mzda přímo od zaměstnavatele neuvedeny. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/"
   },
   {
     "id": "lttrade",
@@ -173,7 +173,7 @@
     "commute_minutes": 19,
     "commute_note": "Horšovský Týn–Stod přibližně 19 min autem podle veřejného přehledu tras.",
     "last_checked": "2026-10-27",
-    "verification_note": "Oficiální kariérní stránky LT trade a podrobná nabídka dohledatelné."
+    "verification_note": "Kontrola 27.10.2026: oficiální stránka LT trade stále uvádí finanční účetní; detail zveřejňuje mzdu 45–70 tis. Kč a omezený HO po dohodě. Vedle ní je na kariérní stránce stručnější varianta, totožnost náboru nepotvrzena."
   },
   {
     "id": "uol",
@@ -210,7 +210,7 @@
     ],
     "commute_minutes": 15,
     "commute_note": "15 min autem Horšovský Týn–Domažlice podle OSRM/OpenStreetMap: https://waysur.com/cs/horsovsky-tyn/domazlice",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "verification_note": "Indeed zobrazuje mzdovou účetní UOL Domažlice; přesný režim HO není doložen."
   },
   {
@@ -282,7 +282,7 @@
     ],
     "commute_minutes": 20,
     "commute_note": "Opravený orientační dojezd: cca 20 min autem z centra Horšovského Týna do Klenčí pod Čerchovem; podle plánovače DobráCesta trasa přes Meclov cca 17 km, 12 min za ideálních podmínek, s rezervou pro běžný provoz. Pozice je ukončená.",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "verification_note": "Výběrové řízení uzavřeno 30.9.2026; agregátory stále mohou zobrazovat starý inzerát."
   },
   {
@@ -317,7 +317,7 @@
       }
     ],
     "last_checked": "2026-10-27",
-    "verification_note": "Oficiální kariérní stránky LT trade nadále uvádějí mzdovou účetní."
+    "verification_note": "Kontrola 27.10.2026: oficiální kariérní stránka LT trade nadále obsahuje pozici mzdové účetní; mzda a HO neuvedeny."
   },
   {
     "id": "bdo-domazlice",
@@ -354,7 +354,7 @@
         "text": "Nově zařazena při ruční kontrole; nabídka je aktuálně aktivní na Jobs.cz."
       }
     ],
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "verification_note": "Jobs.cz a Atmoskop nadále zobrazují nabídku BDO Senior účetní."
   },
   {
@@ -398,7 +398,7 @@
     "location": "Přeštice",
     "category": "Účetnictví",
     "status": "probable",
-    "changed": true,
+    "changed": false,
     "fit": 84,
     "published": "2026-09-23",
     "updated": "2026-10-26",
@@ -436,7 +436,7 @@
     "location": "Bor – Vysočany 56, okres Tachov",
     "category": "Účetnictví",
     "status": "active",
-    "changed": true,
+    "changed": false,
     "fit": 73,
     "published": "2026-08-14",
     "updated": "2026-10-26",
@@ -455,7 +455,7 @@
     "commute_note": "Orientační dojezd do Boru 20 min/27 km podle plánovače DobráCesta (bez zácp); cca 24 min k pracovišti Vysočany 56 je odhad s rezervou na místní dojezd, nikoli měření dopravní špičky. https://www.dobracesta.com/vzdalenost/bor-cz-1599474359/hor%C5%A1ovsk%C3%BD-t%C3%BDn/",
     "summary": "Výrobní společnost v Boru hledá účetní na plný úvazek za mzdu od 60 000 Kč. Údaj je doložen nabídkou ÚP č. 33587360748 převzatou na Pracomat, Kurzy.cz a HitPráce. Benefity: příspěvek na dopravu a stravování, 25 dní dovolené, roční a výroční prémie, cafeteria. Samostatný starší agenturní inzerát na hlavní účetní u téhož zaměstnavatele popisuje DPH, závěrky, majetek, audit a reporting, požaduje 5 let praxe a němčinu nebo angličtinu B2; není potvrzeno, že jde o přesně totožné výběrové řízení. Konkrétní rozsah práce a případný HO je potřeba potvrdit u zaměstnavatele.",
     "why": "Za prověření: dobrá mzda a přibližně 20–25 min autem; plný úvazek bez doloženého HO a u podrobnějšího agenturního inzerátu náročnější jazykové požadavky.",
-    "verification_note": "ÚP ČR nabídka č. 33587360748 převzatá Pracomat, Kurzy.cz a HitPráce; jako aktivní ji stále uvádí regionální agregátory. Podrobný agenturní inzerát JOBSYSTEM má dřívější uzávěrku, proto jeho aktuálnost ani totožnost s nabídkou ÚP nelze automaticky předpokládat.",
+    "verification_note": "Kontrola 27.10.2026: nabídka č. 33587360748 na Pracomatu stále umožňuje odpověď, uvádí od 60 tis. Kč, plný úvazek a Bor-Vysočany 56. Přímé potvrzení neobsazenosti zaměstnavatelem chybí; odhad 24 min není měření ve špičce.",
     "sources": [
       "https://www.pracomat.cz/prace/33587360748-hlavni-ucetni",
       "https://prace.kurzy.cz/urad-prace/nabidka-prace/hlavni-ucetni-ucetni-z-bor-7d1f673ec.html",
