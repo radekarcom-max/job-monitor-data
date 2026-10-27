@@ -42,7 +42,7 @@
     ],
     "commute_minutes": 50,
     "commute_note": "Výjimka z 30min limitu. Waysur/OSRM uvádí přibližně 50 min autem; jiné plánovače mohou ukázat kratší čas.",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "verification_note": "Práce ve škole: nabídka je stále dohledatelná, původní nástup 1.9.2026; obsazení místa není potvrzeno."
   },
   {
@@ -87,8 +87,8 @@
       }
     ],
     "commute_minutes": 15,
-    "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM).",
-    "last_checked": "2026-10-26",
+    "commute_note": "15 min autem Horšovský Týn–Domažlice podle OSRM/OpenStreetMap: https://waysur.com/cs/horsovsky-tyn/domazlice",
+    "last_checked": "2026-10-27",
     "verification_note": "Pracomat, GigaPráce a JenPráce: nabídka nadále dohledatelná, přímé potvrzení od zaměstnavatele chybí."
   },
   {
@@ -129,8 +129,8 @@
       }
     ],
     "commute_minutes": 15,
-    "commute_note": "Horšovský Týn–Holýšov přibližně 15 min autem (Waysur/OSRM; Rome2Rio cca 13 min).",
-    "last_checked": "2026-10-26",
+    "commute_note": "15 min autem Horšovský Týn–Holýšov podle OSRM/OpenStreetMap (městská centra; běžný provoz bez zácp): https://waysur.com/cs/horsovsky-tyn/holysov",
+    "last_checked": "2026-10-27",
     "verification_note": "Přímý inzerát BTT na Prace.cz dohledatelný; plný i zkrácený úvazek."
   },
   {
@@ -172,7 +172,7 @@
     ],
     "commute_minutes": 19,
     "commute_note": "Horšovský Týn–Stod přibližně 19 min autem podle veřejného přehledu tras.",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "verification_note": "Oficiální kariérní stránky LT trade a podrobná nabídka dohledatelné."
   },
   {
@@ -209,7 +209,7 @@
       }
     ],
     "commute_minutes": 15,
-    "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM).",
+    "commute_note": "15 min autem Horšovský Týn–Domažlice podle OSRM/OpenStreetMap: https://waysur.com/cs/horsovsky-tyn/domazlice",
     "last_checked": "2026-10-26",
     "verification_note": "Indeed zobrazuje mzdovou účetní UOL Domažlice; přesný režim HO není doložen."
   },
@@ -244,7 +244,7 @@
     ],
     "commute_minutes": 15,
     "commute_note": "Horšovský Týn–Staňkov přibližně 15 min autem (Waysur/OSRM).",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "verification_note": "Pracomat uvádí inzerát hlavní účetní ve Staňkově, bez potvrzení zaměstnavatele."
   },
   {
@@ -316,7 +316,7 @@
         "text": "Nově zařazena při ruční kontrole z aktuální oficiální kariérní stránky LT trade."
       }
     ],
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "verification_note": "Oficiální kariérní stránky LT trade nadále uvádějí mzdovou účetní."
   },
   {
@@ -379,7 +379,7 @@
     "deadline": "Jobs.cz uvádí konec během několika dnů",
     "source_url": "https://www.jobs.cz/prace/hlavni-ucetni/?q%5B%5D=chief+accountant",
     "commute_minutes": 15,
-    "commute_note": "Horšovský Týn–Domažlice přibližně 15 min autem (Waysur/OSRM).",
+    "commute_note": "15 min autem Horšovský Týn–Domažlice (orientačně centrum města), OSRM/OpenStreetMap: https://waysur.com/cs/horsovsky-tyn/domazlice; aktuální dostupnost konkrétního inzerátu nelze potvrdit z přímého detailu.",
     "summary": "Aktuální nabídka hlavní účetní u přímého zaměstnavatele CAR POINT v Domažlicích. Jobs.cz ji k 25.10.2026 stále uvádí jako aktivní a aktualizovanou; veřejný náhled momentálně nezobrazuje všechny podmínky.",
     "why": "Za prověření – velmi dobrý dojezd a vedoucí účetní pozice; před reakcí je vhodné ověřit mzdu, pracovní dobu a případný HO.",
     "history": [
@@ -388,7 +388,7 @@
         "text": "Nově zařazena do webového monitoringu; Jobs.cz ji stále uvádí jako aktivní a aktualizovanou."
       }
     ],
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "verification_note": "Jobs.cz nadále indexuje HLAVNÍ ÚČETNÍ – DOMAŽLICE u CAR POINT."
   },
   {
@@ -402,7 +402,7 @@
     "fit": 84,
     "published": "2026-09-23",
     "updated": "2026-10-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "salary": "od 14 500 Kč hrubého měsíčně za 20 h/týden; 13. plat a prémie dle nabídky",
     "workload": "Zkrácený úvazek, 20 h/týden; možnost přechodu na plný",
     "parttime": true,
@@ -414,11 +414,15 @@
     "deadline": "Neuvedena",
     "source_url": "https://www.pracomat.cz/prace/35065690703-ucetni-vseobecni",
     "commute_minutes": 28,
-    "commute_note": "Hraniční dojezd: Dobracesta.com uvádí trasu Horšovský Týn–Přeštice 32 km / 28 min autem přes Staňkov a Merklín, BEZ dopravních zácp. V ranní špičce může cesta přesáhnout 30 min; čas do konkrétního pracoviště Hlávkova 23 je nutné ověřit.",
+    "commute_note": "28 min autem Horšovský Týn–Přeštice, 32 km přes Staňkov a Merklín; výpočet bez dopravních zácp, u hraničního dojezdu ověřit v konkrétní čas. Zdroj: https://www.dobracesta.com/vzdalenost/hor%C5%A1ovsk%C3%BD-t%C3%BDn/p%C5%99e%C5%A1tice/",
     "summary": "Účetnictví bytového družstva a SVJ: bankovní transakce, přijaté a vydané faktury, měsíční a roční závěrky, daňová přiznání a podklady pro audit. SŠ ekonomického směru, praxe vítána. Benefity dle pracovních portálů: 5 týdnů dovolené, 13. plat, prémie, stravenkový paušál, příspěvky na pojištění a dovolenou. Inzerát je evidován na více portálech přebírajících veřejnou nabídku; přímé potvrzení obsazování od družstva chybí.",
     "why": "Velmi vhodné kvůli 20 h týdně a účetní agendě; pozor na nízkou měsíční mzdu, nepotvrzený HO a dojezd těsně u hranice 30 minut.",
     "verification_note": "Pracomat, PráceBlízko a Flekni uvádějí stejnou nabídku; na oficiálním webu družstva nebyla samostatná inzerce nalezena.",
     "history": [
+      {
+        "date": "2026-10-27",
+        "text": "Zdroj trasy doplněn: Dobracesta uvádí 32 km / 28 min autem přes Staňkov a Merklín; jde o teoretický čas bez zácp, ne o garanci dojezdu do 30 min. https://www.dobracesta.com/vzdalenost/hor%C5%A1ovsk%C3%BD-t%C3%BDn/p%C5%99e%C5%A1tice/"
+      },
       {
         "date": "2026-10-26",
         "text": "Nově zachyceno monitoringem 26.10.2026 (původně zveřejněno 23.9.2026). Před zařazením prověřen úvazek 20 h, mzda, benefity a hraniční dojezd; aktuálnost u zaměstnavatele zatím nepotvrzena."
@@ -436,7 +440,7 @@
     "fit": 73,
     "published": "2026-08-14",
     "updated": "2026-10-26",
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "salary": "od 60 000 Kč hrubého/měsíc dle nabídky převzaté z ÚP; starší agenturní verze uvádí od 55 000 Kč",
     "workload": "Plný úvazek, jednosměnný provoz",
     "parttime": false,
