@@ -52,10 +52,10 @@
     "location": "Domažlice",
     "category": "Účetnictví",
     "status": "probable",
-    "changed": false,
+    "changed": true,
     "fit": 82,
     "published": "2026-04-01",
-    "updated": "2026-10-25",
+    "updated": "2026-10-27",
     "salary": "50 000–80 000 Kč",
     "workload": "Plný",
     "parttime": false,
@@ -69,6 +69,10 @@
     "summary": "Kompletní účetnictví, daně, DPH, uzávěrky a komunikace s úřady. Rozsah HO není veřejně konkretizován.",
     "why": "Za prověření – vysoká mzda a pružnost; klíčové je ověřit pravidelný odpolední HO.",
     "history": [
+      {
+        "date": "2026-10-27",
+        "text": "Významná změna stavu na zdroji: Pracomat nyní výslovně označuje nabídku za obsazenou, ačkoli při předchozí kontrole byla uváděna mezi aktivními. JenPráce a Inwork ji rovněž označují za ukončenou, zatímco Portál řidiče a Jooble ji stále nabízejí. Přímé potvrzení ARTURE chybí; status probable ponechán, ale pravděpodobnost aktuální neobsazenosti se snížila. https://www.pracomat.cz/prace/33002780742-hlavni-ucetni ; https://www.portalridice.cz/nabidka-prace/detail/hlavni-ucetni-domazlice-arture-art-nature-s-r-o"
+      },
       {
         "date": "2026-10-25",
         "text": "Doplněn přímý odkaz na kopii detailu nabídky, která stále zobrazuje 50–80 tis. Kč a občasný HO. Inwork ji současně označuje za neaktivní; status proto zůstává pravděpodobně aktivní. https://www.gigaprace.cz/nabidka-prace/kdgqv5/hlavni-ucetni-domazlice ; https://www.inwork.cz/prace/plzensky-kraj/domazlice/domazlice/6311050-hlavni-ucetni/"
