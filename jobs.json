@@ -46,10 +46,10 @@
     ],
     "commute_minutes": 50,
     "commute_note": "Výjimka z 30min limitu. Waysur/OSRM uvádí přibližně 50 min autem; jiné plánovače mohou ukázat kratší čas.",
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "verification_note": "28.10.2026: evidence ÚP (č. 33605460754) uvádí plný i zkrácený úvazek a min. 21 hodin, Práce ve škole uvádí 1,0. POZP uvádí původní platnost do 2.9.2026, VolnáMístaUnás datum 23.10.2026 se stejným starým textem. Znovuotevření náboru není prokázáno.",
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Školský portál stále uvádí plný úvazek a původní zářijový nástup; evidence ÚP uvádí rozporných 21 hodin, což nemusí být celková týdenní pracovní doba. Nový nábor od školy neověřen. https://praceveskole.cz/volna-mista/ucitel-ka-ekonomickych-predmetu-stredni-odborna-skola-obchodu-uziteho-umeni-a-designu-plzen-nerudova-33"
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: Práce ve škole stále ukazuje původní nástup 1.9.2026, úvazek 1,0; nový nábor nepotvrzen. Výjimka 50 min ponechána."
   },
   {
     "id": "arture",
@@ -106,10 +106,10 @@
     ],
     "commute_minutes": 15,
     "commute_note": "15 min autem Horšovský Týn–Domažlice podle OSRM/OpenStreetMap: https://waysur.com/cs/horsovsky-tyn/domazlice",
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "verification_note": "31.10.2026: Pracomat i Inwork označují původní dubnový inzerát jako obsazený/neaktivní. Aktuální detail profilu Flekni neuvádí žádné otevřené místo, ačkoli starší indexovaný výsledek zobrazuje 1. Stav ended ponechán; není potvrzeno obsazení konkrétním člověkem ani nové vypsání. https://www.pracomat.cz/prace/33002780742-hlavni-ucetni ; https://flekni.cz/zamestnavatel/arture-art-nature-sro/",
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Pracomat a Inwork označují původní nabídku jako ukončenou, starší kopie na JenPráce a HitPráce nejsou důkazem obnovení. https://www.pracomat.cz/prace/33002780742-hlavni-ucetni",
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: PráceAZ i Inwork označují původní inzerát za neplatný; staré kopie z dubna 2026 nejsou důkazem obnovení.",
     "employer_size": "25–49 zaměstnanců podle profilu Flekni (údaj z agregátoru, neověřený přímo u firmy)",
     "recruitment_history": "Dohledány dvě historické vlny: září 2025 od 50 000 Kč (inzerát ukončen 18.12.2025) a duben 2026 za 50 000–80 000 Kč (aktuálně ukončen). Opakovaný nábor doložen; důvod opakování neznámý."
   },
@@ -164,10 +164,10 @@
     ],
     "commute_minutes": 15,
     "commute_note": "15 min autem Horšovský Týn–Holýšov podle OSRM/OpenStreetMap (městská centra; běžný provoz bez zácp): https://waysur.com/cs/horsovsky-tyn/holysov",
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "verification_note": "Přímý inzerát zaměstnavatele na Prace.cz byl 27.10.2026 dostupný a označený jako aktualizovaný přibližně před 15 hodinami. Plný i zkrácený úvazek, občasný HO a pružná doba; konkrétní rozsah HO a mzda přímo od zaměstnavatele neuvedeny. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Přímý inzerát Práce.cz stále dostupný, relativní aktualizace před několika dny, podmínky beze změny. Opravena nepodložená doba určitá. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/"
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: Přímý inzerát Práce.cz stále dostupný, zkrácený/plný úvazek, pružná doba a občasný HO; mzda ani přesný rozsah HO nejsou uvedeny."
   },
   {
     "id": "lttrade",
@@ -208,10 +208,10 @@
     ],
     "commute_minutes": 19,
     "commute_note": "Horšovský Týn–Stod přibližně 19 min autem podle veřejného přehledu tras.",
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "verification_note": "Kontrola 27.10.2026: oficiální stránka LT trade stále uvádí finanční účetní; detail zveřejňuje mzdu 45–70 tis. Kč a omezený HO po dohodě. Vedle ní je na kariérní stránce stručnější varianta, totožnost náboru nepotvrzena.",
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Oficiální kariérní stránka obsahuje finanční účetní, podmínky beze změny. https://www.lttrade.cz/kariera/"
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: Finanční účetní je v aktuálním seznamu kariéry LT trade, podmínky beze změny."
   },
   {
     "id": "uol",
@@ -256,10 +256,10 @@
     ],
     "commute_minutes": 15,
     "commute_note": "15 min autem Horšovský Týn–Domažlice podle OSRM/OpenStreetMap: https://waysur.com/cs/horsovsky-tyn/domazlice",
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "verification_note": "1.11.2026: přímý indexovaný kariérní seznam UOL uvádí Mzdový/á účetní Domažlice 31 500–45 000 Kč; nezávisle také Indeed. Otevření kariérního webu v přímém náhledu dočasně vracelo 502, proto je stav active založen na dostupném seznamu a souběžné inzerci, nikoli osobním potvrzení. HO nepotvrzen.",
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Indeed stále uvádí mzdovou účetní Domažlice 31 500–45 000 Kč, plný úvazek; přímé potvrzení zaměstnavatele chybí. https://cz.indeed.com/l-doma%C5%BElice-nab%C3%ADdky-pr%C3%A1ce.html"
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: Indeed aktuálně zobrazuje mzdovou účetní Domažlice, přímý kariérní web UOL vrací HTTP 502; podmínky beze změny."
   },
   {
     "id": "stankov",
@@ -296,10 +296,10 @@
     ],
     "commute_minutes": 15,
     "commute_note": "Horšovský Týn–Staňkov přibližně 15 min autem (Waysur/OSRM).",
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "verification_note": "Pracomat uvádí inzerát hlavní účetní ve Staňkově, bez potvrzení zaměstnavatele.",
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Pracomat stále uvádí hlavní účetní Thi Thu Phuong Hoang, Staňkov, 73 823 Kč; přímé potvrzení zaměstnavatele chybí. https://www.pracomat.cz/hledam-praci/region-domazlice/profese-ucetni"
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: Práce za rohem stále uvádí „Pořád hledají“, mzda od 73 823 Kč; přímé potvrzení zaměstnavatele chybí."
   },
   {
     "id": "klenci",
@@ -336,10 +336,10 @@
     ],
     "commute_minutes": 20,
     "commute_note": "Opravený orientační dojezd: cca 20 min autem z centra Horšovského Týna do Klenčí pod Čerchovem; podle plánovače DobráCesta trasa přes Meclov cca 17 km, 12 min za ideálních podmínek, s rezervou pro běžný provoz. Pozice je ukončená.",
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "verification_note": "Výběrové řízení uzavřeno 30.9.2026; agregátory stále mohou zobrazovat starý inzerát.",
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Historické ukončené výběrové řízení; nové vypsání v regionálních výsledcích nepotvrzeno."
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: Kurzy.cz/MPSV uvádí účetní městyse jako neaktivní; nové výběrové řízení nezjištěno."
   },
   {
     "id": "lttrade-mzdova",
@@ -372,10 +372,10 @@
         "text": "Nově zařazena při ruční kontrole z aktuální oficiální kariérní stránky LT trade."
       }
     ],
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "verification_note": "Kontrola 27.10.2026: oficiální kariérní stránka LT trade nadále obsahuje pozici mzdové účetní; mzda a HO neuvedeny.",
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Oficiální kariérní stránka obsahuje text mzdové účetní, ale bez samostatné položky v horním menu; aktuálnost samostatného náboru nepotvrzena. https://www.lttrade.cz/kariera/"
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: Text mzdové účetní na oficiální kariérní stránce zůstává, ale v horním seznamu pozic chybí; aktuální nábor samostatně nepotvrzen."
   },
   {
     "id": "bdo-domazlice",
@@ -383,11 +383,11 @@
     "company": "BDO Group s.r.o.",
     "location": "Domažlice – Týnské Předměstí",
     "category": "Účetnictví",
-    "status": "probable",
-    "changed": false,
+    "status": "ended",
+    "changed": true,
     "fit": 84,
     "published": "2026-09-25",
-    "updated": "2026-10-29",
+    "updated": "2026-11-06",
     "salary": "Neuvedena zaměstnavatelem",
     "workload": "Plný",
     "parttime": false,
@@ -404,6 +404,10 @@
     "why": "Velmi zajímavé – krátký dojezd a HO, ale jde o seniorní plný úvazek a němčina je významný požadavek.",
     "history": [
       {
+        "date": "2026-11-06",
+        "text": "Významná změna stavu: pravděpodobně aktivní → ukončená inzerce. Aktuální přehled BDO Group na Jobs.cz již Senior účetní Domažlice neobsahuje a Joober detail uvádí „Tato nabídka už není aktivní“. Starší indexované seznamy z 25.9. ji ještě ukazují. Obsazení člověkem neověřeno. https://www.jobs.cz/prace/?company%5B%5D=1703021842 ; https://joober.ai/cs/prace/detail/795388f2-de39-40ad-883a-0dce64efed1b"
+      },
+      {
         "date": "2026-10-29",
         "text": "Nová významná změna dostupnosti: Jobs.cz aktuální seznam všech 3 pozic BDO Group (kontrola 29.10.2026) už neobsahuje Senior účetní v Domažlicích, zatímco starší indexované výsledky Jobs.cz ze září a října nabídku zobrazují. Nejde o důkaz obsazení; stav změněn z active na probable a je potřeba přímé potvrzení zaměstnavatele. https://www.jobs.cz/prace/?company=1703021842 ; https://www.jobs.cz/prace/financni-ucetni/?cacheKey=c009e0cc-7431-4130-b236-0a2ca486b47d&page=10&profession%5B0%5D=201100467"
       },
@@ -416,10 +420,10 @@
         "text": "Nově zařazena při ruční kontrole; nabídka je aktuálně aktivní na Jobs.cz."
       }
     ],
-    "last_checked": "2026-11-05",
-    "verification_note": "1.11.2026: Atmoskop uchovává starší výpis Senior účetní Domažlice ze září, ale aktuální přímé potvrzení náboru na Jobs.cz nebylo získáno; probable. https://www.atmoskop.cz/nazory-na-zamestnavatele/75552-bdo-group/hodnoceni",
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Nový přímý detail senior účetní Domažlice nenalezen; status probable beze změny."
+    "last_checked": "2026-11-06",
+    "verification_note": "6.11.2026: Přímý profil zaměstnavatele BDO Group na Jobs.cz aktuálně uvádí čtyři jiné pozice, nikoli Senior účetní Domažlice; Joober detail výslovně hlásí, že nabídka již není aktivní. Staré indexované výpisy Jobs.cz a Atmoskop stále zobrazují nabídku z 25.9.2026. Ukončení inzerce potvrzeno, obsazení konkrétním zaměstnancem nikoli. https://www.jobs.cz/prace/?company%5B%5D=1703021842 ; https://joober.ai/cs/prace/detail/795388f2-de39-40ad-883a-0dce64efed1b",
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: změna probable → ended, dle aktuálního přehledu zaměstnavatele na Jobs.cz a detailu Joober; staré kopie nepovažovat za aktivní."
   },
   {
     "id": "carpoint-domazlice",
@@ -456,10 +460,10 @@
         "text": "Nově zařazena do webového monitoringu; Jobs.cz ji stále uvádí jako aktivní a aktualizovanou."
       }
     ],
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "verification_note": "31.10.2026: zůstávají starší indexované stránky Jobs.cz (inzerát původně 9.10., v říjnu označen jako končící); aktuální přímý detail nebo nové vypsání nebyly nalezeny. Stav probable je opatrnostní, nikoli potvrzení obsazení.",
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Nový přímý detail hlavní účetní Domažlice nenalezen; status probable beze změny."
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: Jen starší indexované výpisy Jobs.cz, čerstvé potvrzení hlavní účetní chybí; stav probable ponechán s výhradou."
   },
   {
     "id": "sbd-prestice-ucetni-20h",
@@ -472,7 +476,7 @@
     "fit": 78,
     "published": "2026-09-23",
     "updated": "2026-11-01",
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "salary": "od 14 500 Kč hrubého měsíčně za 20 h/týden; 13. plat a prémie dle nabídky",
     "workload": "Zkrácený úvazek, 20 h/týden; možnost přechodu na plný",
     "parttime": true,
@@ -506,8 +510,8 @@
         "text": "Nově zachyceno monitoringem 26.10.2026 (původně zveřejněno 23.9.2026). Před zařazením prověřen úvazek 20 h, mzda, benefity a hraniční dojezd; aktuálnost u zaměstnavatele zatím nepotvrzena."
       }
     ],
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Easy-práce stále zobrazuje zkrácený úvazek SBD; hraniční dojezd na Hlávkovu 23 neověřen. https://www.easy-prace.cz/holysov/ekonomika-a-podnikove-finance/vysokoskolske-vzdelani"
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: Pracomat stále zveřejňuje zkrácený úvazek, nástup 1.1.2027. Dojezd na Hlávkovu 23 zůstává neověřen."
   },
   {
     "id": "eissmann-bor-ucetni-33587360748",
@@ -520,7 +524,7 @@
     "fit": 68,
     "published": "2026-08-14",
     "updated": "2026-11-04",
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "salary": "od 60 000 Kč hrubého/měsíc dle nabídky převzaté z ÚP; starší agenturní verze uvádí od 55 000 Kč",
     "workload": "Plný úvazek, jednosměnný provoz",
     "parttime": false,
@@ -558,8 +562,8 @@
         "text": "Nově zařazeno do monitoringu (nikoli nově zveřejněno): dohledána nabídka ÚP č. 33587360748 původně ze 14. 8. 2026, stále uváděná jako aktivní. Dojezd cca 24 min je orientační. Podobný agenturní inzerát JOBSYSTEM (od 55 tis. Kč, uzávěrka 8.10.) není veden duplicitně, totožnost náboru není ověřena."
       }
     ],
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Původní záznam ÚP dostupný v archivu; stav ended podle předchozího potvrzení, nový nábor neprokázán. https://prace.kurzy.cz/urad-prace/nabidka-prace/hlavni-ucetni-ucetni-z-bor-7d1f673ec.html"
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: Pracomat nadále označuje nabídku za obsazenou; žádný nový nábor doložen."
   },
   {
     "id": "scherdel-bor-financni-ucetni",
@@ -572,7 +576,7 @@
     "fit": 74,
     "published": "2026-10-01",
     "updated": "2026-11-02",
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "salary": "45 000–50 000 Kč/měs. (Jobs.cz; Indeed mzdu neuvádí)",
     "workload": "Plný úvazek",
     "parttime": false,
@@ -612,8 +616,8 @@
         "text": "Nově zařazeno do monitoringu 29.10.2026, nikoli nově vypsáno: Jobs.cz zveřejnění/obnovení 1.10. a 25.10.2026, Kariera.cz uvádí 13.10.2026, Jooble a Indeed potvrzují náplň. Starší identická nabídka „Administrativní pracovnice v účetnictví“ ze září je sloučena, aby nevznikla duplicita. https://www.kariera.cz/profile/scherdel ; https://cz.jooble.org/jdp/1247341591315582732 ; https://cz.indeed.com/viewjob?jk=400c93c01668e596 ; https://www.knamdoprace.cz/financni-ucetni-6327.html"
       }
     ],
-    "last_reviewed": "2026-11-05",
-    "last_review_note": "5.11.2026 odpoledne: Starší inzerce dostupná, dojezd přímo na Vysočany 54 neověřen, změna podmínek nezjištěna. https://cz.indeed.com/viewjob?jk=400c93c01668e596",
+    "last_reviewed": "2026-11-06",
+    "last_review_note": "6.11.2026: Indeed stále obsahuje přímý popis finanční účetní; přesný dojezd do Vysočan 54 neověřen.",
     "employer_size": "250–499 zaměstnanců (Chytrý rejstřík; údaj není potvrzen přímo firmou)"
   },
   {
@@ -623,7 +627,7 @@
     "location": "Praha – formální lokalita; výkon práce plně z domova v ČR",
     "category": "Ekonomika / finanční analýza (příbuzná ekonomická agenda)",
     "status": "probable",
-    "changed": true,
+    "changed": false,
     "fit": 77,
     "published": "",
     "updated": "2026-11-05",
@@ -656,9 +660,53 @@
         "text": "Nově zachyceno: M Plus, finanční analytik/čka 100% remote. Jooble a Indeed shodně uvádějí plnou práci z domova; Jooble odkazuje na oficiální ATS, ale přímý detail není v dostupném HTML ověřitelný. Datum zveřejnění (relativní údaje 4–16 dní), mzda a typ smlouvy neověřeny. https://cz.jooble.org/jdp/-742979593253066114 ; https://cz.indeed.com/Finance-Prague-jobs"
       }
     ],
-    "last_checked": "2026-11-05",
-    "last_reviewed": "2026-11-05",
+    "last_checked": "2026-11-06",
+    "last_reviewed": "2026-11-06",
     "verification_note": "Dvě odlišné platformy s totožným inzerátem a odkazem na ATS zaměstnavatele; přímé potvrzení detailu na ATS chybí, proto probable.",
-    "last_review_note": "5.11.2026 odpoledne: nový příbuzný ekonomický inzerát, plně remote potvrzeno textem; ostatní podmínky částečně neověřeny."
+    "last_review_note": "6.11.2026: Jooble i Indeed stále uvádějí 100% remote finanční analytik M Plus; detail ATS zaměstnavatele nelze nezávisle ověřit."
+  },
+  {
+    "id": "uol-remote-dpp-doklady",
+    "title": "Účetní výpomoc – zadávání a účtování dokladů z domova (DPP)",
+    "company": "UOL a.s. / UOL Účetnictví",
+    "location": "Celá ČR – 100% práce z domova (administrativně Praha)",
+    "category": "Účetnictví – brigáda / DPP",
+    "status": "probable",
+    "changed": true,
+    "fit": 62,
+    "published": "2026-05-18",
+    "updated": "",
+    "salary": "3,85 Kč za zadaný doklad (500 dokladů = 1 925 Kč); inzerát agregátoru uvádí 2 000–11 999 Kč/měs., nejde o garantovaný paušál",
+    "workload": "DPP; libovolný počet hodin denně, minimálně 500 dokladů měsíčně; přesný počet hodin neuveden",
+    "parttime": true,
+    "homeoffice": true,
+    "homeText": "100% remote – odkudkoli z ČR, bez pravidelného dojíždění",
+    "flexible": "Plně flexibilní rozvržení práce podle počtu zpracovaných dokladů",
+    "contract": "Pouze DPP, dlouhodobá spolupráce; nikoli pracovní smlouva HPP",
+    "software": "Vlastní intranetový účetní systém UOL (název neuveden)",
+    "deadline": "Neuvedena",
+    "start": "Ihned (podle agregátoru)",
+    "education": "Praxe nebo znalost účetnictví; orientace ve fakturách a předkontaci",
+    "languages": "Neuvedeny",
+    "employer_size": "UOL – síť účetních poboček; počet osob v konkrétním týmu neuveden",
+    "source_url": "https://kariera.uol.cz/jobs/detail/20804",
+    "sources": [
+      "https://kariera.uol.cz/jobs/detail/20804",
+      "https://www.fajn-brigady.cz/brigady/administrativa/cela-cr/6343447-flexibilni-brigada-z-domova-zadavani-ucetnich-dokladu/"
+    ],
+    "commute_minutes": 0,
+    "commute_note": "plně remote – pravidelný dojezd se nevyžaduje; uvedeno na kariérní stránce UOL i na Fajn-brigady (ověření 6.11.2026).",
+    "summary": "Dlouhodobá účetní brigáda: zpracování a předkontace dokladů v intranetovém systému UOL. Minimum 500 dokladů za měsíc; odměna 3,85 Kč/doklad, tedy 1 925 Kč při minimálním objemu. Práce na DPP odkudkoli a v libovolné denní době. Vhodné spíše jako přivýdělek, nikoli náhrada hlavního pracovního poměru. UOL přímý detail je dostupný v indexu vyhledávače, přímé otevření aktuálně vrací 502; agregátor nabízí odpověď na inzerát.",
+    "why": "Za prověření jako doplňkový příjem – nulový dojezd a plná flexibilita, ale nízká odměna za doklad, nejistý objem a pouze DPP.",
+    "history": [
+      {
+        "date": "2026-11-06",
+        "text": "Nově zařazena při kontrole (původní zveřejnění již 18.5.2026, nejde o čerstvě vypsanou pozici). Dva zdroje: indexovaný kariérní detail UOL a aktivní odpovědní formulář Fajn-brigady. 100% remote, DPP, 3,85 Kč/doklad, min. 500 měsíčně. Přímý web UOL vrací při otevření HTTP 502, proto stav probable. https://kariera.uol.cz/jobs/detail/20804 ; https://www.fajn-brigady.cz/brigady/administrativa/cela-cr/6343447-flexibilni-brigada-z-domova-zadavani-ucetnich-dokladu/"
+      }
+    ],
+    "last_checked": "2026-11-06",
+    "last_reviewed": "2026-11-06",
+    "verification_note": "6.11.2026: přímý kariérní detail UOL indexován a obsahuje nabídku, aktuální otevření HTTP 502; Fajn-brigady uvádí původní datum 18.5.2026, inzerát s možností odpovědět. Aktivitu nelze přímo zaměstnavatelem potvrdit.",
+    "last_review_note": "6.11.2026: nově objevená historicky zveřejněná účetní brigáda 100% remote; odměna 3,85 Kč za doklad, DPP."
   }
 ]
