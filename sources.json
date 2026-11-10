@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updated": "2026-11-05",
+  "version": 5,
+  "updated": "2026-11-10",
   "search_rule": {
     "origin": "Horšovský Týn",
     "max_drive_minutes": 30,
@@ -285,6 +285,18 @@
     },
     {
       "name": "Síť práce – sitprace.cz",
+      "type": "aggregator_mpsv",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "Fajn-brigady.cz",
+      "type": "general",
+      "priority": 2,
+      "active": true
+    },
+    {
+      "name": "PráceAZ.cz – evidence volných míst ÚP",
       "type": "aggregator_mpsv",
       "priority": 2,
       "active": true
