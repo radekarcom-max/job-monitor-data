@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updated": "2026-11-10",
+  "version": 6,
+  "updated": "2026-11-11",
   "search_rule": {
     "origin": "Horšovský Týn",
     "max_drive_minutes": 30,
@@ -300,6 +300,13 @@
       "type": "aggregator_mpsv",
       "priority": 2,
       "active": true
+    },
+    {
+      "name": "Suiteify – oficiální kariéra (rakouské mzdy, remote ČR)",
+      "type": "official",
+      "priority": 1,
+      "active": true,
+      "url": "https://www.suiteify.com/ueber-uns/karriere"
     }
   ]
 }
