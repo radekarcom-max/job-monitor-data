@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updated": "2026-11-11",
+  "version": 7,
+  "updated": "2026-11-12",
   "search_rule": {
     "origin": "Horšovský Týn",
     "max_drive_minutes": 30,
@@ -307,6 +307,13 @@
       "priority": 1,
       "active": true,
       "url": "https://www.suiteify.com/ueber-uns/karriere"
+    },
+    {
+      "name": "DYPE – oficiální web a účetní/mzdové nábory",
+      "type": "official",
+      "priority": 1,
+      "active": true,
+      "url": "https://dype.cz/novinky/"
     }
   ]
 }
