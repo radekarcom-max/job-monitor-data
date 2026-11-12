@@ -46,10 +46,10 @@
     ],
     "commute_minutes": 50,
     "commute_note": "Výjimka z 30min limitu. Waysur/OSRM uvádí přibližně 50 min autem; jiné plánovače mohou ukázat kratší čas.",
-    "last_checked": "2026-11-11",
+    "last_checked": "2026-11-12",
     "verification_note": "28.10.2026: evidence ÚP (č. 33605460754) uvádí plný i zkrácený úvazek a min. 21 hodin, Práce ve škole uvádí 1,0. POZP uvádí původní platnost do 2.9.2026, VolnáMístaUnás datum 23.10.2026 se stejným starým textem. Znovuotevření náboru není prokázáno.",
-    "last_reviewed": "2026-11-11",
-    "last_review_note": "11.11.2026 odpoledne: školský portál stále zobrazuje původní nabídku učitele ekonomických předmětů (1,0; nástup 1.9.2026). Oficiální web školy uvádí vyučující ekonomických předmětů v článku z dubna 2026, ale z toho nelze vyvodit obsazení ani otevření tohoto místa. Nové VŘ nebylo prokázáno. https://praceveskole.cz/volna-mista/ucitel-ka-ekonomickych-predmetu-stredni-odborna-skola-obchodu-uziteho-umeni-a-designu-plzen-nerudova-33 ; https://www.nerudovka.cz/skola/archiv-aktualit/letosni-rok"
+    "last_reviewed": "2026-11-12",
+    "last_review_note": "12.11.2026: Práce ve škole a Práce-školství stále uvádějí původní nabídku učitele ekonomických předmětů s nástupem 1.9.2026, úvazek 1,0. Nové vyhlášení školou není potvrzeno. https://praceveskole.cz/volna-mista/ucitel-ka-ekonomickych-predmetu-stredni-odborna-skola-obchodu-uziteho-umeni-a-designu-plzen-nerudova-33"
   },
   {
     "id": "arture",
@@ -106,10 +106,10 @@
     ],
     "commute_minutes": 15,
     "commute_note": "15 min autem Horšovský Týn–Domažlice podle OSRM/OpenStreetMap: https://waysur.com/cs/horsovsky-tyn/domazlice",
-    "last_checked": "2026-11-11",
+    "last_checked": "2026-11-12",
     "verification_note": "31.10.2026: Pracomat i Inwork označují původní dubnový inzerát jako obsazený/neaktivní. Aktuální detail profilu Flekni neuvádí žádné otevřené místo, ačkoli starší indexovaný výsledek zobrazuje 1. Stav ended ponechán; není potvrzeno obsazení konkrétním člověkem ani nové vypsání. https://www.pracomat.cz/prace/33002780742-hlavni-ucetni ; https://flekni.cz/zamestnavatel/arture-art-nature-sro/",
-    "last_reviewed": "2026-11-11",
-    "last_review_note": "11.11.2026 odpoledne: PráceAZ pro původní místo ID 33002780742 stále výslovně uvádí 'Nabídka už není platná'; Flekni nadále zobrazuje starou dubnovou inzerci, nikoli doložené nové vypsání. Status ended beze změny. https://www.praceaz.cz/volne-misto/33002780742 ; https://flekni.cz/zamestnavatel/arture-art-nature-sro/",
+    "last_reviewed": "2026-11-12",
+    "last_review_note": "12.11.2026: PráceAZ pro evidenci 33002780742 stále uvádí 'Nabídka už není platná'; starší kopie nejsou důkazem obnovení náboru. https://www.praceaz.cz/volne-misto/33002780742",
     "employer_size": "25–49 zaměstnanců podle profilu Flekni (údaj z agregátoru, neověřený přímo u firmy)",
     "recruitment_history": "Dohledány dvě historické vlny: září 2025 od 50 000 Kč (inzerát ukončen 18.12.2025) a duben 2026 za 50 000–80 000 Kč (aktuálně ukončen). Opakovaný nábor doložen; důvod opakování neznámý."
   },
@@ -168,10 +168,10 @@
     ],
     "commute_minutes": 15,
     "commute_note": "15 min autem Horšovský Týn–Holýšov podle OSRM/OpenStreetMap (městská centra; běžný provoz bez zácp): https://waysur.com/cs/horsovsky-tyn/holysov",
-    "last_checked": "2026-11-11",
+    "last_checked": "2026-11-12",
     "verification_note": "Přímý inzerát zaměstnavatele na Prace.cz byl 27.10.2026 dostupný a označený jako aktualizovaný přibližně před 15 hodinami. Plný i zkrácený úvazek, občasný HO a pružná doba; konkrétní rozsah HO a mzda přímo od zaměstnavatele neuvedeny. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
-    "last_reviewed": "2026-11-11",
-    "last_review_note": "11.11.2026 odpoledne: přímý inzerát Práce.cz je dostupný a hlásí nedávnou relativní aktualizaci (cca 1–2 dny); plný/zkrácený úvazek, pružná doba, občasný HO a 13. plat bez zjištěné změny. Mzda a přesná četnost HO stále neuvedeny. Pozor: metadata portálu uvádějí AJ/NJ jako výhodu, ale text požadavků obsahuje dobrou znalost angličtiny; rozpor v rámci inzerátu, neprokázaná změna. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/"
+    "last_reviewed": "2026-11-12",
+    "last_review_note": "12.11.2026: Přímý inzerát na Práce.cz stále aktivní, uvádí plný/zkrácený úvazek, pružnou dobu, občasný HO, 13. plat. Přesný rozsah HO, počet hodin zkráceného úvazku a mzda u zaměstnavatele neuvedeny; v textu je dobrá AJ požadována, v metadatech označena jako výhoda. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/"
   },
   {
     "id": "lttrade",
@@ -212,10 +212,10 @@
     ],
     "commute_minutes": 19,
     "commute_note": "Horšovský Týn–Stod přibližně 19 min autem podle veřejného přehledu tras.",
-    "last_checked": "2026-11-11",
+    "last_checked": "2026-11-12",
     "verification_note": "Kontrola 27.10.2026: oficiální stránka LT trade stále uvádí finanční účetní; detail zveřejňuje mzdu 45–70 tis. Kč a omezený HO po dohodě. Vedle ní je na kariérní stránce stručnější varianta, totožnost náboru nepotvrzena.",
-    "last_reviewed": "2026-11-11",
-    "last_review_note": "11.11.2026 odpoledne: finanční účetní stále v oficiální nabídce LT trade za 45–70 tis. Kč; plný úvazek, omezený HO po dohodě, podmínky nezměněny. https://www.lttrade.cz/kariera/financni_ucetni/"
+    "last_reviewed": "2026-11-12",
+    "last_review_note": "12.11.2026: Oficiální kariéra LT trade stále uvádí finanční účetní 45–70 tis. Kč, omezený HO po dohodě; bez zjištěné změny podmínek. https://www.lttrade.cz/kariera/financni_ucetni/"
   },
   {
     "id": "uol",
@@ -300,10 +300,10 @@
     ],
     "commute_minutes": 15,
     "commute_note": "Horšovský Týn–Staňkov přibližně 15 min autem (Waysur/OSRM).",
-    "last_checked": "2026-11-11",
+    "last_checked": "2026-11-12",
     "verification_note": "Pracomat uvádí inzerát hlavní účetní ve Staňkově, bez potvrzení zaměstnavatele.",
-    "last_reviewed": "2026-11-11",
-    "last_review_note": "11.11.2026 odpoledne: Pracovní radar nadále zobrazuje původní nabídku hlavní účetní Thi Thu Phuong Hoang ve Staňkově, ale bez nového přímého potvrzení zaměstnavatele. Neprokázána změna. https://www.pracovniradar.cz/inzerat/67162133/hlavni-ucetni/"
+    "last_reviewed": "2026-11-12",
+    "last_review_note": "12.11.2026: Pracovní radar stále uvádí starou nabídku hlavní účetní od Thi Thu Phuong Hoang, mzda 73 823 Kč; jde o starý nábor, přímé potvrzení zaměstnavatele chybí. https://www.pracovniradar.cz/inzerat/67162133/"
   },
   {
     "id": "klenci",
@@ -384,10 +384,10 @@
         "text": "Změna úrovně ověření active → probable: samostatná inzerce JenPráce nyní označena za ukončenou, přesto na oficiálním kariérním webu LT trade zůstává celý text nabídky mzdové účetní. Nejde o doložené obsazení, ale o významný rozpor aktuálnosti. Historická mzda v ukončeném inzerátu 38–45 tis. Kč. https://www.jenprace.cz/nabidka/1nnttc/mzdova-ucetni-13-plat-m-z ; https://www.lttrade.cz/kariera/"
       }
     ],
-    "last_checked": "2026-11-11",
+    "last_checked": "2026-11-12",
     "verification_note": "7.11.2026: Samostatný inzerát JenPráce https://www.jenprace.cz/nabidka/1nnttc/mzdova-ucetni-13-plat-m-z uvádí ukončení (historická mzda 38 000–45 000 Kč, plný úvazek, doba neurčitá). Oficiální web https://www.lttrade.cz/kariera/ stále obsahuje totožný text mzdové účetní, ale bez samostatné položky v horním seznamu. Stav probable, nikoli ended; nelze spolehlivě potvrdit, zda zaměstnavatel stále přijímá kandidáty. Historickou mzdu nelze bez potvrzení považovat za aktuální.",
-    "last_reviewed": "2026-11-11",
-    "last_review_note": "11.11.2026 odpoledne: text mzdové účetní pro cca 80 zaměstnanců (PAMICA výhodou) zůstává na oficiální kariérní stránce, ale samostatný aktuální nábor ani podmínky nového inzerátu nejsou doloženy; starší inzerce ukončena. https://www.lttrade.cz/kariera/",
+    "last_reviewed": "2026-11-12",
+    "last_review_note": "12.11.2026: Oficiální kariérní stránka LT trade stále obsahuje text mzdové účetní (cca 80 zaměstnanců, PAMICA výhodou), ale není v horním seznamu otevřených míst. Samostatný aktuální nábor nelze potvrdit. https://www.lttrade.cz/kariera/",
     "sources": [
       "https://www.jenprace.cz/nabidka/1nnttc/mzdova-ucetni-13-plat-m-z",
       "https://www.lttrade.cz/kariera/"
@@ -493,7 +493,7 @@
     "fit": 78,
     "published": "2026-09-23",
     "updated": "2026-11-01",
-    "last_checked": "2026-11-11",
+    "last_checked": "2026-11-12",
     "salary": "od 14 500 Kč hrubého měsíčně za 20 h/týden; 13. plat a prémie dle nabídky",
     "workload": "Zkrácený úvazek, 20 h/týden; možnost přechodu na plný",
     "parttime": true,
@@ -527,8 +527,8 @@
         "text": "Nově zachyceno monitoringem 26.10.2026 (původně zveřejněno 23.9.2026). Před zařazením prověřen úvazek 20 h, mzda, benefity a hraniční dojezd; aktuálnost u zaměstnavatele zatím nepotvrzena."
       }
     ],
-    "last_reviewed": "2026-11-11",
-    "last_review_note": "11.11.2026 odpoledne: Pracomat nadále uvádí zkrácený úvazek účetní 20 h týdně, od 14 500 Kč, Hlávkova 23. Dojezd na konkrétní adresu není spolehlivě ověřen do 30 min (rozporné mapové odhady 28 a 35 min), proto commute_minutes=null. https://www.pracomat.cz/prace/35065690703-ucetni-vseobecni"
+    "last_reviewed": "2026-11-12",
+    "last_review_note": "12.11.2026: Pracomat a GigaPráce nadále uvádějí 20 h/týden, od 14 500 Kč, nástup 1.1.2027; přesný dojezd do Hlávkovy 23 v Přešticích nadále neověřen, commute_minutes zůstává null. https://www.pracomat.cz/prace/35065690703-ucetni-vseobecni"
   },
   {
     "id": "eissmann-bor-ucetni-33587360748",
@@ -593,7 +593,7 @@
     "fit": 74,
     "published": "2026-10-01",
     "updated": "2026-11-02",
-    "last_checked": "2026-11-11",
+    "last_checked": "2026-11-12",
     "salary": "45 000–50 000 Kč/měs. (Jobs.cz; Indeed mzdu neuvádí)",
     "workload": "Plný úvazek",
     "parttime": false,
@@ -641,8 +641,8 @@
         "text": "Nově zařazeno do monitoringu 29.10.2026, nikoli nově vypsáno: Jobs.cz zveřejnění/obnovení 1.10. a 25.10.2026, Kariera.cz uvádí 13.10.2026, Jooble a Indeed potvrzují náplň. Starší identická nabídka „Administrativní pracovnice v účetnictví“ ze září je sloučena, aby nevznikla duplicita. https://www.kariera.cz/profile/scherdel ; https://cz.jooble.org/jdp/1247341591315582732 ; https://cz.indeed.com/viewjob?jk=400c93c01668e596 ; https://www.knamdoprace.cz/financni-ucetni-6327.html"
       }
     ],
-    "last_reviewed": "2026-11-11",
-    "last_review_note": "11.11.2026 odpoledne: přímý text inzerátu SCHERDEL na Indeed nadále dostupný, bez doložené změny podmínek. Typický dojezd na Vysočany 54 nebyl ověřen, commute_minutes=null. https://cz.indeed.com/viewjob?jk=400c93c01668e596",
+    "last_reviewed": "2026-11-12",
+    "last_review_note": "12.11.2026: Kariéra.cz stále zobrazuje finanční účetní SCHERDEL ve Vysočanech 54; přesný typický dojezd z Horšovského Týna na adresu nebyl ověřen, commute_minutes null. https://cz.indeed.com/viewjob?jk=400c93c01668e596",
     "employer_size": "250–499 zaměstnanců (Chytrý rejstřík; údaj není potvrzen přímo firmou)",
     "benefits": "Vánoční a věrnostní prémie, příspěvek na stravování 89 Kč/odpracovanou směnu, doprava max. 3 261 Kč/měsíc, semináře v ČR a Německu, příspěvek na jazykový kurz, jednorázové příspěvky k životním událostem. Podle Indeed a Kariera.cz, ověřeno 8.11.2026."
   },
@@ -790,10 +790,10 @@
         "text": "Nově zařazena do monitoringu. Přímý inzerát zaměstnavatele na Práce.cz a zrcadlení Práce za rohem potvrzují 20 h týdně, 30 000 Kč, plně remote bez pravidelného dojíždění, flexibilní dobu, POHODA, min. 5 let praxe a DPPO. Oficiální web účetní kanceláře ověřuje existenci firmy, nikoli samotný nábor. Datum původního zveřejnění není přesně doloženo (relativní označení inzerce v různých indexech); datum published je první datum ověření v monitoringu. https://www.prace.cz/nabidka/3b2dd4c9-9308-4ea9-ae9f-7a5366ab3fba/ ; https://www.pracezarohem.cz/dl/jd/PZRG-c680af02-ba22-4584-9e37-db87f52bc4c6 ; https://www.ucetnictvi-kolarikova.cz/"
       }
     ],
-    "last_checked": "2026-11-11",
-    "last_reviewed": "2026-11-11",
+    "last_checked": "2026-11-12",
+    "last_reviewed": "2026-11-12",
     "verification_note": "8.11.2026: přímý zaměstnavatelský inzerát Práce.cz + zrcadlený text Práce za rohem; oficiální web kanceláře potvrzuje existenci a účetní zaměření, avšak nikoli aktuální nábor. Stav active je založen na přímém inzerátu zaměstnavatele. Práce.cz a Práce za rohem jsou jedna skupina Alma Career, nikoli nezávislé potvrzení. Datum první publikace, uzávěrka, nástup a doba trvání smlouvy nezjištěny.",
-    "last_review_note": "11.11.2026 odpoledne: přímý inzerát Práce.cz potvrzuje 20 h týdně, 30 000 Kč hrubého, 100% HO bez pravidelného dojíždění, flexibilní rozvrh a POHODA; beze změny. https://www.prace.cz/nabidka/3b2dd4c9-9308-4ea9-ae9f-7a5366ab3fba/"
+    "last_review_note": "12.11.2026: Přímý zaměstnavatelský inzerát na Práce.cz nadále potvrzuje 20 h týdně, 30 000 Kč, 100% HO bez dojíždění, flexibilní dobu, POHODA a 5 let praxe. Bez změny. https://www.prace.cz/nabidka/3b2dd4c9-9308-4ea9-ae9f-7a5366ab3fba/"
   },
   {
     "id": "grafton-austrian-payroll-team-lead-remote",
@@ -845,10 +845,10 @@
         "text": "Nově objeveno a zařazeno do monitoringu (nikoli nově zveřejněno zaměstnavatelem). Přímý Grafton ref. 1005968 výslovně potvrzuje plně remote z ČR, pružnou dobu a plný úvazek; rakouské mzdy a němčina jsou podmínkou. Nejstarší nalezená distribuce 18.9.2026, další 20.–21.10.2026. Mzda neuvedena; sekundární údaj 100 tis. Kč neověřen. https://www.grafton.cz/cs/jobs/austrian-payroll-team-lead-remote-czech-republic ; https://www.inwork.cz/prace/plzensky-kraj/plzen/plzen/6575851-austrian-payroll-team-lead-remote-from-czech-republic/"
       }
     ],
-    "last_checked": "2026-11-11",
-    "last_reviewed": "2026-11-11",
+    "last_checked": "2026-11-12",
+    "last_reviewed": "2026-11-12",
     "verification_note": "10.11.2026: přímá aktuálně dostupná kariérní stránka Grafton ref. 1005968 a další sekundární zdroje Inwork, HitPráce, Pracomat. Konečný zaměstnavatel neuveden. Některé starší agregátory označují inzerci za ukončenou; přímý Grafton stále nabízí odpovědní formulář. Jde o novou položku v monitoringu, nikoli novou listopadovou publikaci. 11.11.2026: Oficiální Suiteify zveřejňuje velmi podobnou pozici Payroll Teamlead (AT) pro ČR/Plzeň remote se shodnými benefity. Shoda konečného klienta není výslovně doložena; považováno za pravděpodobnou duplicitní inzerci, nikoli novou samostatnou pozici.",
-    "last_review_note": "11.11.2026 odpoledne: oficiální Grafton inzerát pro rakouské mzdy stále nabízí plný úvazek a 100% remote z ČR (nebo hybrid v Plzni). Nutná znalost rakouských mezd a komunikativní NJ. Bez významné změny. https://www.grafton.cz/cs/jobs/austrian-payroll-team-lead-remote-czech-republic"
+    "last_review_note": "12.11.2026: Oficiální inzerát Grafton stále uvádí 100% remote v ČR nebo hybrid v Plzni, plný úvazek a němčinu. Identita klienta se Suiteify je jen hypotéza, ne potvrzený fakt. https://www.grafton.cz/cs/jobs/austrian-payroll-team-lead-remote-czech-republic"
   },
   {
     "id": "suiteify-payroll-specialist-at-remote",
@@ -857,7 +857,7 @@
     "location": "Česká republika – 100 % práce na dálku; fyzická kancelář v inzerátu neuvedena",
     "category": "Mzdy / personalistika",
     "status": "active",
-    "changed": true,
+    "changed": false,
     "fit": 53,
     "published": "2026-11-02",
     "updated": "",
@@ -892,9 +892,59 @@
         "text": "Nově zařazena do monitoringu (nikoli poprvé zveřejněna zaměstnavatelem). Oficiální web Suiteify potvrzuje Payroll Specialist (AT), plný úvazek, až 100% remote z ČR, flexibilní dobu, němčinu B2 a základní znalost rakouských mezd. Nezávislý Evolc datuje publikaci 2.11.2026. Mzda a délka smlouvy neuvedeny. https://www.suiteify.com/jobs/payroll-specialist-at-m-w-d ; https://jobs.evolc.com/job/hamburger-software-de-payroll-specialist-at-m-w-d-iq4ik"
       }
     ],
-    "last_checked": "2026-11-11",
-    "last_reviewed": "2026-11-11",
+    "last_checked": "2026-11-12",
+    "last_reviewed": "2026-11-12",
     "verification_note": "11.11.2026: přímá aktivní kariérní stránka Suiteify a nezávislé indexování Evolc. Umožněna až 100% práce na dálku v ČR; přesný režim případných úvodních schůzek je třeba ověřit. Jde o samostatnou pozici Payroll Specialist, nikoli duplicitu vedoucího rakouských mezd.",
-    "last_review_note": "11.11.2026 odpoledne: oficiální Suiteify stále zveřejňuje Payroll Specialist (AT), až 100% mobilní práce v ČR, NJ B2 a rakouské mzdy. Bez významné změny; přesný režim případného zaučení na místě není upřesněn. https://www.suiteify.com/jobs/payroll-specialist-at-m-w-d"
+    "last_review_note": "12.11.2026: Oficiální inzerát Suiteify potvrzuje Payroll Specialist (AT), plný úvazek, až 100% remote v ČR, němčinu B2 a rakouské mzdy. Bez změny. https://www.suiteify.com/jobs/payroll-specialist-at-m-w-d"
+  },
+  {
+    "id": "dype-mzdova-ucetni-remote-20h-20261110",
+    "title": "Mzdová účetní – externí remote spolupráce, zpočátku cca 20 hodin týdně",
+    "company": "Dype s.r.o. (DYPE)",
+    "location": "Praha 8 – Karlín, Pernerova 676/51 (administrativní sídlo); výkon práce na dálku odkudkoli v ČR",
+    "category": "Mzdy / personalistika",
+    "status": "probable",
+    "changed": true,
+    "fit": 85,
+    "published": "2026-11-10",
+    "updated": "2026-11-11",
+    "first_seen_date": "2026-11-12",
+    "salary": "Dle dohody; sazba a forma fakturace nezveřejněny",
+    "workload": "Externí spolupráce, zpočátku cca 20 hodin týdně, s postupným navýšením. Agregátory současně uvádějí plný/zkrácený úvazek; smluvní forma vyžaduje potvrzení.",
+    "parttime": true,
+    "homeoffice": true,
+    "homeText": "Inzerát uvádí externí remote spolupráci a možnost pracovat odkudkoli; pravidelné dojíždění do pražské kanceláře se nevyžaduje. Firemní setkání 1. pátek v měsíci uvedena jako příležitost, ne potvrzená povinnost.",
+    "flexible": "Flexibilní pracovní doba, možnost nastavit si pracovní dobu; rozsah koordinace s klienty neupřesněn.",
+    "contract": "Inzerát výslovně nabízí EXTERNÍ spolupráci; portál současně klasifikuje plný/zkrácený pracovní poměr. HPP vs. IČO/DPP a případná povinná osobní účast nejsou potvrzeny; nutno ověřit.",
+    "software": "ABRA Flexi nebo ABRA Gen výhodou; MS Excel/online účetní nástroje, přesný mzdový software neuveden.",
+    "deadline": "Neuvedena",
+    "start": "Dle dohody",
+    "education": "Nejméně SŠ; alespoň 3 roky samostatné praxe ve mzdovém účetnictví českých klientů; samostatnost, pečlivost a spolehlivost.",
+    "languages": "Angličtina pro komunikaci se zahraničními klienty; úroveň není stanovena. Zahraniční mzdy (SK/DE) výhodou.",
+    "employer_size": "DYPE na vlastním webu uvádí více než 80 profesionálů; není potvrzeno, kolik tvoří mzdový tým.",
+    "benefits": "Remote práce, flexibilní pracovní doba, profesní vzdělávání (Ambassador), pravidelná týmová setkání; u externí spolupráce není potvrzena placená dovolená ani zaměstnanecké benefity.",
+    "source_url": "https://www.inwork.cz/prace/praha/praha/praha/6604350-mzdova-ucetni/",
+    "sources": [
+      "https://www.inwork.cz/prace/praha/praha/praha/6604350-mzdova-ucetni/",
+      "https://www.pracomat.cz/prace/1_3792158-mzdova-ucetni",
+      "https://www.hitprace.cz/prace-detail/mzdova-ucetni-praha-ru6604350/",
+      "https://dype.cz/",
+      "https://www.inwork.cz/prace/praha/praha/praha/6157550-med-sen-mzdova-ucetni-do-digitalni-firmy-a-praci-na-home-office/"
+    ],
+    "commute_minutes": 0,
+    "commute_note": "plně remote – pravidelný dojezd se nevyžaduje; aktuální inzerát DYPE výslovně uvádí externí remote spolupráci odkudkoli, cca 20 h týdně: https://www.inwork.cz/prace/praha/praha/praha/6604350-mzdova-ucetni/ ; povinnost případných schůzek je nutno potvrdit",
+    "summary": "Kompletní zpracování českých mezd pro klienty externího digitálního finančního oddělení DYPE, spolupráce s více klienty, online komunikace, možné zahraniční projekty. Požadovány 3+ roky samostatné mzdové praxe a komunikace v AJ; ABRA Flexi/Gen výhodou. Externí remote spolupráce zpočátku kolem 20 h týdně s navýšením, odměna dohodou. Formální typ kontraktu není jednoznačný.",
+    "why": "Velmi zajímavé kvůli zpočátku 20 h týdně, práci odkudkoli a flexibilitě. Zásadní riziko: jde o externí spolupráci, nikoli potvrzený zaměstnanecký poměr, a úvazek se má navyšovat; mzda neuvedena. Doporučeno ověřit IČO/HPP, hodinovou sazbu a případné povinné osobní schůzky.",
+    "recruitment_history": "Nová aktuální inzerce 10.–11.11.2026 (Inwork uvádí 10.11., Pracomat 11.11.). Podobný text DYPE se vyskytoval již v historickém ukončeném inzerátu '(Med/Sen) Mzdová účetní do digitální firmy a prací na home office' v roce 2025. Může jít o opakovaný nábor; totožnost konkrétního pracovního místa není doložena. Důvod opakování neznámý.",
+    "history": [
+      {
+        "date": "2026-11-12",
+        "text": "Nově zařazena do monitoringu: aktuální přímý firemní inzerát na Inwork (10.11.) a Pracomat (11.11.) uvádí externí remote spolupráci zpočátku cca 20 h týdně, flexibilitu, mzdu dle dohody, 3+ roky praxe v českých mzdách, AJ a ABRA Flexi/Gen výhodou. Dvě portálové kopie mohou pocházet ze stejného inzerátu; web DYPE ověřuje existenci zaměstnavatele, ne aktuální nábor. Starší podobný inzerát 2025 byl ukončen. https://www.inwork.cz/prace/praha/praha/praha/6604350-mzdova-ucetni/ ; https://www.pracomat.cz/prace/1_3792158-mzdova-ucetni ; https://www.inwork.cz/prace/praha/praha/praha/6157550-med-sen-mzdova-ucetni-do-digitalni-firmy-a-praci-na-home-office/"
+      }
+    ],
+    "last_checked": "2026-11-12",
+    "last_reviewed": "2026-11-12",
+    "verification_note": "12.11.2026: dvě aktuální portálové verze firemní inzerce Inwork a Pracomat + firemní web DYPE (existence firmy); nejde o nezávislé potvrzení aktuálnosti od oficiální kariérní stránky. Stav probable, protože externí smluvní forma a případná osobní účast nejsou vyjasněny.",
+    "last_review_note": "12.11.2026: Nová aktuální inzerce DYPE mzdová účetní, externí remote zpočátku cca 20 h/týden, AJ, ABRA Flexi výhodou. Základní odměna neuvedena."
   }
 ]
