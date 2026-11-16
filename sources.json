@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "updated": "2026-11-14",
+  "version": 9,
+  "updated": "2026-11-16",
   "search_rule": {
     "origin": "Horšovský Týn",
     "max_drive_minutes": 30,
@@ -321,6 +321,13 @@
       "priority": 1,
       "active": true,
       "url": "https://www.uctarna.ai/kariera"
+    },
+    {
+      "name": "Alcadrain – oficiální kariéra (účetní, senior účetní; 100% HO u externí role)",
+      "type": "official",
+      "priority": 1,
+      "active": true,
+      "url": "https://www.kariera.alcadrain.cz/"
     }
   ]
 }
