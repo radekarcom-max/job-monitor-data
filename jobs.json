@@ -46,10 +46,10 @@
     ],
     "commute_minutes": 50,
     "commute_note": "Výjimka z 30min limitu. Waysur/OSRM uvádí přibližně 50 min autem; jiné plánovače mohou ukázat kratší čas.",
-    "last_checked": "2026-11-19",
+    "last_checked": "2026-11-20",
     "verification_note": "28.10.2026: evidence ÚP (č. 33605460754) uvádí plný i zkrácený úvazek a min. 21 hodin, Práce ve škole uvádí 1,0. POZP uvádí původní platnost do 2.9.2026, VolnáMístaUnás datum 23.10.2026 se stejným starým textem. Znovuotevření náboru není prokázáno.",
-    "last_reviewed": "2026-11-19",
-    "last_review_note": "19.11. odpoledne: Práce ve škole a Práce-školství stále zobrazují původní nabídku učitele ekonomických předmětů, plný úvazek 1,0 a nástup 1.9.2026. Nové výběrové řízení ani zkrácený úvazek nejsou potvrzeny. Historická výjimka z dojezdu zachována. https://praceveskole.cz/volna-mista/ucitel-ka-ekonomickych-predmetu-stredni-odborna-skola-obchodu-uziteho-umeni-a-designu-plzen-nerudova-33"
+    "last_reviewed": "2026-11-20",
+    "last_review_note": "20.11.2026: Práce ve škole stále zobrazuje původní plný úvazek 1,0, nástup 1.9.2026 a 36 780–44 420 Kč. Nové vypsání ani zkrácený úvazek neprokázány. https://praceveskole.cz/volna-mista/ucitel-ka-ekonomickych-predmetu-stredni-odborna-skola-obchodu-uziteho-umeni-a-designu-plzen-nerudova-33"
   },
   {
     "id": "arture",
@@ -172,10 +172,10 @@
     ],
     "commute_minutes": 15,
     "commute_note": "15 min autem Horšovský Týn–Holýšov podle OSRM/OpenStreetMap (městská centra; běžný provoz bez zácp): https://waysur.com/cs/horsovsky-tyn/holysov",
-    "last_checked": "2026-11-19",
+    "last_checked": "2026-11-20",
     "verification_note": "Přímý inzerát zaměstnavatele na Prace.cz byl 27.10.2026 dostupný a označený jako aktualizovaný přibližně před 15 hodinami. Plný i zkrácený úvazek, občasný HO a pružná doba; konkrétní rozsah HO a mzda přímo od zaměstnavatele neuvedeny. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
-    "last_reviewed": "2026-11-19",
-    "last_review_note": "19.11. odpoledne: přímý inzerát BTT na Práce.cz zůstává dostupný (indexováno včera), nabízí plný i zkrácený HPP, pružnou dobu, občasný HO, SAP FI výhodou, 13. plat; mzda a přesný rozsah HO neuvedeny. Na regionálním výpisu Práce za rohem se objevilo relativní 'Končí dnes', ale přímá nabídka Práce.cz je stále otevřená; ukončení nepotvrzeno. Zaměstnavatel uvádí cca 150 kolegů v Holýšově. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/ ; https://www.pracezarohem.cz/nabidky/plzensky/ucetni",
+    "last_reviewed": "2026-11-20",
+    "last_review_note": "20.11.2026: přímý inzerát Práce.cz je nadále dostupný, zkrácený/plný úvazek, pružná pracovní doba, občasný HO, 13. plat; mzda a konkrétní četnost HO neuvedeny. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
     "employer_size": "Přibližně 150 zaměstnanců v závodě v Holýšově podle přímého inzerátu BTT na Práce.cz (ověřeno 19.11.2026)."
   },
   {
@@ -217,10 +217,10 @@
     ],
     "commute_minutes": 19,
     "commute_note": "Horšovský Týn–Stod přibližně 19 min autem podle veřejného přehledu tras.",
-    "last_checked": "2026-11-19",
+    "last_checked": "2026-11-20",
     "verification_note": "Kontrola 27.10.2026: oficiální stránka LT trade stále uvádí finanční účetní; detail zveřejňuje mzdu 45–70 tis. Kč a omezený HO po dohodě. Vedle ní je na kariérní stránce stručnější varianta, totožnost náboru nepotvrzena.",
-    "last_reviewed": "2026-11-19",
-    "last_review_note": "19.11. odpoledne: oficiální kariéra LT trade nadále uvádí finanční účetní ve Stodu, bez prokázané změny mzdy/úvazku/HO. https://www.lttrade.cz/kariera/financni_ucetni/"
+    "last_reviewed": "2026-11-20",
+    "last_review_note": "20.11.2026: oficiální kariéra LT trade nadále uvádí finanční účetní a detail nabízí 45–70 tis. Kč, omezený HO po dohodě. Nezjištěna změna podmínek. https://www.lttrade.cz/kariera/financni_ucetni/"
   },
   {
     "id": "uol",
@@ -389,10 +389,10 @@
         "text": "Změna úrovně ověření active → probable: samostatná inzerce JenPráce nyní označena za ukončenou, přesto na oficiálním kariérním webu LT trade zůstává celý text nabídky mzdové účetní. Nejde o doložené obsazení, ale o významný rozpor aktuálnosti. Historická mzda v ukončeném inzerátu 38–45 tis. Kč. https://www.jenprace.cz/nabidka/1nnttc/mzdova-ucetni-13-plat-m-z ; https://www.lttrade.cz/kariera/"
       }
     ],
-    "last_checked": "2026-11-19",
+    "last_checked": "2026-11-20",
     "verification_note": "7.11.2026: Samostatný inzerát JenPráce https://www.jenprace.cz/nabidka/1nnttc/mzdova-ucetni-13-plat-m-z uvádí ukončení (historická mzda 38 000–45 000 Kč, plný úvazek, doba neurčitá). Oficiální web https://www.lttrade.cz/kariera/ stále obsahuje totožný text mzdové účetní, ale bez samostatné položky v horním seznamu. Stav probable, nikoli ended; nelze spolehlivě potvrdit, zda zaměstnavatel stále přijímá kandidáty. Historickou mzdu nelze bez potvrzení považovat za aktuální.",
-    "last_reviewed": "2026-11-19",
-    "last_review_note": "19.11. odpoledne: oficiální dlouhá kariérní stránka LT trade stále obsahuje text Mzdová účetní (mzdy cca 80 osob, PAMICA výhodou), ačkoli samostatná položka není v horním seznamu. Dřívější portálové kopie skončily, aktuální nábor zůstává nejistý. https://www.lttrade.cz/kariera/",
+    "last_reviewed": "2026-11-20",
+    "last_review_note": "20.11.2026: na oficiální kariérní stránce zůstává text mzdové účetní (80 zaměstnanců, PAMICA výhodou), ale aktuální otevření náboru není potvrzeno; historické ukončené inzeráty nejsou důkazem aktivní pozice. https://www.lttrade.cz/kariera/",
     "sources": [
       "https://www.jenprace.cz/nabidka/1nnttc/mzdova-ucetni-13-plat-m-z",
       "https://www.lttrade.cz/kariera/"
