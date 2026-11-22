@@ -49,7 +49,7 @@
     "last_checked": "2026-11-22",
     "verification_note": "28.10.2026: evidence ÚP (č. 33605460754) uvádí plný i zkrácený úvazek a min. 21 hodin, Práce ve škole uvádí 1,0. POZP uvádí původní platnost do 2.9.2026, VolnáMístaUnás datum 23.10.2026 se stejným starým textem. Znovuotevření náboru není prokázáno.",
     "last_reviewed": "2026-11-22",
-    "last_review_note": "22.11.2026: Školský portál stále zobrazuje původní nabídku s nástupem 1.9.2026 a plným úvazkem 1,0. ÚP agregátory uvádějí také zkrácený úvazek/21 h, ale není potvrzeno, že jde o zkrácený pracovní týden nebo nové výběrové řízení. https://praceveskole.cz/volna-mista/ucitel-ka-ekonomickych-predmetu-stredni-odborna-skola-obchodu-uziteho-umeni-a-designu-plzen-nerudova-33"
+    "last_review_note": "22.11.2026 odpoledne: Práce ve škole stále uvádí původní plný úvazek 1,0 a nástup 1.9.2026; nové vyhlášení nepotvrzeno. https://praceveskole.cz/volna-mista/ucitel-ka-ekonomickych-predmetu-stredni-odborna-skola-obchodu-uziteho-umeni-a-designu-plzen-nerudova-33"
   },
   {
     "id": "arture",
@@ -106,10 +106,10 @@
     ],
     "commute_minutes": 15,
     "commute_note": "15 min autem Horšovský Týn–Domažlice podle OSRM/OpenStreetMap: https://waysur.com/cs/horsovsky-tyn/domazlice",
-    "last_checked": "2026-11-21",
+    "last_checked": "2026-11-22",
     "verification_note": "31.10.2026: Pracomat i Inwork označují původní dubnový inzerát jako obsazený/neaktivní. Aktuální detail profilu Flekni neuvádí žádné otevřené místo, ačkoli starší indexovaný výsledek zobrazuje 1. Stav ended ponechán; není potvrzeno obsazení konkrétním člověkem ani nové vypsání. https://www.pracomat.cz/prace/33002780742-hlavni-ucetni ; https://flekni.cz/zamestnavatel/arture-art-nature-sro/",
-    "last_reviewed": "2026-11-21",
-    "last_review_note": "21.11.2026: PráceAZ stále označuje nabídku ID 33002780742 jako neplatnou; nové vypsání nebylo potvrzeno. https://www.praceaz.cz/volne-misto/33002780742",
+    "last_reviewed": "2026-11-22",
+    "last_review_note": "22.11.2026 odpoledne: PráceAZ stále výslovně uvádí 'Nabídka už není platná'. Nový nábor nezjištěn. https://www.praceaz.cz/volne-misto/33002780742",
     "employer_size": "25–49 zaměstnanců podle profilu Flekni (údaj z agregátoru, neověřený přímo u firmy)",
     "recruitment_history": "Dohledány dvě historické vlny: září 2025 od 50 000 Kč (inzerát ukončen 18.12.2025) a duben 2026 za 50 000–80 000 Kč (aktuálně ukončen). Opakovaný nábor doložen; důvod opakování neznámý."
   },
@@ -175,7 +175,7 @@
     "last_checked": "2026-11-22",
     "verification_note": "Přímý inzerát zaměstnavatele na Prace.cz byl 27.10.2026 dostupný a označený jako aktualizovaný přibližně před 15 hodinami. Plný i zkrácený úvazek, občasný HO a pružná doba; konkrétní rozsah HO a mzda přímo od zaměstnavatele neuvedeny. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
     "last_reviewed": "2026-11-22",
-    "last_review_note": "22.11.2026: Přímý inzerát Práce.cz nadále dostupný; plný/zkrácený úvazek, pružná doba, občasný HO, 13. plat; mzda přímo neuvedena. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
+    "last_review_note": "22.11.2026 odpoledne: přímý inzerát Práce.cz stále zveřejňuje finanční účetní, plný/zkrácený úvazek, mzda neuvedena, relativní aktualizace před 16 hodinami (datum nelze přesně určit). https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
     "employer_size": "Přibližně 150 zaměstnanců v závodě v Holýšově podle přímého inzerátu BTT na Práce.cz (ověřeno 19.11.2026)."
   },
   {
@@ -220,7 +220,7 @@
     "last_checked": "2026-11-22",
     "verification_note": "Kontrola 27.10.2026: oficiální stránka LT trade stále uvádí finanční účetní; detail zveřejňuje mzdu 45–70 tis. Kč a omezený HO po dohodě. Vedle ní je na kariérní stránce stručnější varianta, totožnost náboru nepotvrzena.",
     "last_reviewed": "2026-11-22",
-    "last_review_note": "22.11.2026: Oficiální kariéra LT trade stále uvádí finanční účetní; náplň zahrnuje účetnictví a případně mzdy cca 80 zaměstnanců. Podmínky bez doložené změny. https://www.lttrade.cz/kariera/"
+    "last_review_note": "22.11.2026 odpoledne: oficiální kariéra nadále zveřejňuje finanční účetní a samostatný detail uvádí 45–70 tis. Kč a omezený HO po dohodě. Bez doložené změny. https://www.lttrade.cz/kariera/financni_ucetni/"
   },
   {
     "id": "uol",
@@ -392,7 +392,7 @@
     "last_checked": "2026-11-22",
     "verification_note": "7.11.2026: Samostatný inzerát JenPráce https://www.jenprace.cz/nabidka/1nnttc/mzdova-ucetni-13-plat-m-z uvádí ukončení (historická mzda 38 000–45 000 Kč, plný úvazek, doba neurčitá). Oficiální web https://www.lttrade.cz/kariera/ stále obsahuje totožný text mzdové účetní, ale bez samostatné položky v horním seznamu. Stav probable, nikoli ended; nelze spolehlivě potvrdit, zda zaměstnavatel stále přijímá kandidáty. Historickou mzdu nelze bez potvrzení považovat za aktuální.",
     "last_reviewed": "2026-11-22",
-    "last_review_note": "22.11.2026: Oficiální kariéra LT trade nadále uvádí samostatnou mzdovou účetní, mzdy cca 80 zaměstnanců, PAMICA výhodou; skutečná neobsazenost není přímo potvrzena. https://www.lttrade.cz/kariera/",
+    "last_review_note": "22.11.2026 odpoledne: oficiální kariéra nadále obsahuje mzdovou účetní pro cca 80 zaměstnanců; není doloženo nové zveřejnění ani obsazení. https://www.lttrade.cz/kariera/",
     "sources": [
       "https://www.jenprace.cz/nabidka/1nnttc/mzdova-ucetni-13-plat-m-z",
       "https://www.lttrade.cz/kariera/"
