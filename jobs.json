@@ -119,8 +119,8 @@
     "company": "BTT Solutions CZ s.r.o.",
     "location": "Holýšov",
     "category": "Účetnictví",
-    "status": "active",
-    "changed": false,
+    "status": "probable",
+    "changed": true,
     "fit": 94,
     "published": "2026-10-19",
     "updated": "2026-11-05",
@@ -137,6 +137,10 @@
     "summary": "Přímý inzerát BTT Solutions v Holýšově potvrzuje plný i zkrácený úvazek, pružný začátek/konec pracovní doby, občasný home office, 13. plat, 5 týdnů dovolené, dopravu a vzdělávání. Náplň: faktury, banka, hlavní kniha, DPH a uzávěrky. SAP FI výhodou, pokročilá angličtina je v popisu požadována; němčina výhodou. Zaměstnavatel uvádí asi 150 zaměstnanců; přímý inzerát neuvádí mzdu, agenturní podobná nabídka 45–55 tis. Kč může být stejná pozice.",
     "why": "Velmi vhodné – silná kombinace lokality, zkráceného úvazku, flexibility a HO.",
     "history": [
+      {
+        "date": "2026-11-23",
+        "text": "Významná změna ověřitelnosti: přímý inzerát Práce.cz nyní 404; starší indexované výpisy Jobs.cz hlásily blížící se konec. Stav active → probable, bez potvrzení obsazení či ukončení náboru. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/"
+      },
       {
         "date": "2026-11-19",
         "text": "Doplněn doložený počet cca 150 zaměstnanců v holýšovském závodě dle přímého inzerátu zaměstnavatele. Nejde o změnu pracovních podmínek. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/"
@@ -173,9 +177,9 @@
     "commute_minutes": 15,
     "commute_note": "15 min autem Horšovský Týn–Holýšov podle OSRM/OpenStreetMap (městská centra; běžný provoz bez zácp): https://waysur.com/cs/horsovsky-tyn/holysov",
     "last_checked": "2026-11-23",
-    "verification_note": "Přímý inzerát zaměstnavatele na Prace.cz byl 27.10.2026 dostupný a označený jako aktualizovaný přibližně před 15 hodinami. Plný i zkrácený úvazek, občasný HO a pružná doba; konkrétní rozsah HO a mzda přímo od zaměstnavatele neuvedeny. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
+    "verification_note": "23.11.2026 odpoledne: přímý odkaz Práce.cz nově vrací HTTP 404, zatímco vyhledávač stále uchovává kopii z před 6 dny a Jobs.cz starší výpisy signalizovaly konec inzerce kolem 17.–20.11. Nejde o důkaz obsazení ani definitivního ukončení. Stav active → probable; je nutné ověřit nábor přímo u BTT. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
     "last_reviewed": "2026-11-23",
-    "last_review_note": "23.11.2026: přímý inzerát Práce.cz je dohledatelný, nadále plný/zkrácený úvazek, pružná doba, občasný HO; mzda nezveřejněna. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
+    "last_review_note": "23.11.2026 odpoledne: přímý odkaz Práce.cz nově vrací HTTP 404, zatímco vyhledávač stále uchovává kopii z před 6 dny a Jobs.cz starší výpisy signalizovaly konec inzerce kolem 17.–20.11. Nejde o důkaz obsazení ani definitivního ukončení. Stav active → probable; je nutné ověřit nábor přímo u BTT. https://www.prace.cz/firma/7ad7e5-btt-solutions-cz-s-r-o/nabidka/b89fe432-c23f-4727-9025-5f16ae272c56/",
     "employer_size": "Přibližně 150 zaměstnanců v závodě v Holýšově podle přímého inzerátu BTT na Práce.cz (ověřeno 19.11.2026)."
   },
   {
